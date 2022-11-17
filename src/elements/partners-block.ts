@@ -117,9 +117,10 @@ export class PartnersBlock extends ReduxMixin(PolymerElement) {
         <div class="action-buttons" layout horizontal wrap>
           <paper-button class="cta-button animated icon-right" on-click="addPotentialPartner">
             <span>[[partnersBlock.button]]</span>
+
             <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
           </paper-button>
-          <a href=""https://drive.google.com/file/d/1vmmK-aMs_iT3np0sGlqucOSDTX8OXu8T/view?usp=sharing""
+          <a href="https://drive.google.com/file/d/1vmmK-aMs_iT3np0sGlqucOSDTX8OXu8T/view?usp=sharing"
              target="_blank">
             <paper-button class="cta-button animated icon-right"">
               <span>Partnership Proposition</span>
