@@ -185,7 +185,7 @@
           {
             "name": "Dmytro Andeieiev",
             "photo": "",
-            "photoUrl": "",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/team-people%2FDima.jpg?alt=media&token=71f9875e-438d-4aaa-9c15-c73502c9f2c7",
             "socials": [
               {
                 "icon": "linkedin",
@@ -204,11 +204,21 @@
           {
             "name": "Zeynep Sila",
             "photo": "",
-            "photoUrl": "",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/team-people%2FZanyap.jpg?alt=media&token=7d1956fd-48f5-4f56-880a-4742305b9e29",
             "socials": [
+              {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/zeynepsilasaglam/",
+                "name": "LinkedIn"
+              },
+              {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/zeynep.saglam.52090008",
+                "name": "Facebook"
+              }
             ],
             "order": 7,
-            "title": ""
+            "title": "GDSC Lead, design, social media"
           },
           {
             "name": "Oleksandr Katrych",
@@ -270,7 +280,7 @@
           {
             "name": "Anhelina Mukha",
             "photo": "",
-            "photoUrl": "",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/team-people%2FAnhelina.jpg?alt=media&token=85bc2af6-65a1-454c-8ce2-52e17cdf934b",
             "socials": [
               {
                 "icon": "linkedin",
