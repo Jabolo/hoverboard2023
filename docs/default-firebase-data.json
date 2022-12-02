@@ -63,6 +63,84 @@
   "schedule": {
   },
   "sessions": {
+    "101": {
+      "description": "In the last 2 years, I mastered the art of cracking the coding and system design interviews and landed on multiple offers from FAANG companies. During this time, I collected useful tips and tricks to make the proccess easier and more fun.   During the workshop, I will present a sample system design intreview question and walk through a solution which can easily impress interviewers. I will share with my intrerview experience with Facebook, Amazon, Bloomberg and resources to prepare for them.",
+      "tags": [
+        ""
+      ],
+      "speakers": [
+        "Azimjon__Pulatov"
+      ],
+      "presentation": "",
+      "title": "Cracking the System Desing Interview",
+      "complexity": "Medium",
+      "language": "English"
+    },
+    "102": {
+      "description": "Every coroutine needs a Job. Surprisingly, this is what forms their relationship with their children. Not an easy relationship - it involves inheritance, awaiting, cancellation, and exception handling. Even though those mechanisms might seem scary and complicated, they are actually really intuitive and reasonable once we see them from the right perspective. Let’s do that, and on the way, let’s have some fun.",
+      "tags": [
+        "Kotlin"
+      ],
+      "speakers": [
+        "Marcin__Moskala"
+      ],
+      "presentation": "",
+      "title": "Parents cancelling their children - hard relationship between Kotlin coroutines",
+      "complexity": "Medium",
+      "language": "English"
+    },
+    "103": {
+      "description": "We'll talk about technics and methods of debugging frontend code, frequently encountered bugs in frontend development, time-saver tips and suggestion for debugging.",
+      "tags": [
+        "Frontend"
+      ],
+      "speakers": [
+        "Diyorbek__Sadullaev"
+      ],
+      "presentation": "",
+      "title": "Debugging Frontend Applications",
+      "complexity": "Medium",
+      "language": "English"
+    },
+    "104": {
+      "description": "The Internet is an awesome place where everyone can find interesting materials for them. Unfortunately, sometimes we forget some people cannot use it the same way as most of us - e.g. people with vision, motion, or cognitive disabilities. Why is accessibility so unpopular among developers? I believe it's not because of bad will - we often don't understand our users' problems. It's why I want to show some tricks to better understand users with disabilities, talk about the most popular mistakes (and fixes for them), and improvements you can include in your development process to avoid accessibility problems in the future.",
+      "tags": [
+        "Web"
+      ],
+      "speakers": [
+        "Dominika__Zając"
+      ],
+      "presentation": "",
+      "title": "How to make the Internet accessible for everyone",
+      "complexity": "Intro",
+      "language": "English"
+    },
+    "105": {
+      "description": "The Kotlin type system is amazingly designed. It was designed and constantly improved for years, and it was built based on experiences from other typing systems. As a result, it gives us very comfortable nullability support, type inference, universal guards, and much more. In this presentation, we’ll dive deep into Kotlin typing systems and how small design choices lead to a better programming experience.",
+      "tags": [
+        "Kotlin"
+      ],
+      "speakers": [
+        "Marcin__Moskala"
+      ],
+      "presentation": "",
+      "title": "The beauty of the Kotlin type system",
+      "complexity": "Medium",
+      "language": "English"
+    },
+    "106": {
+      "description": "IaaC is very popular in mid-sized and big enterprises. I am going to show you how easy is to create full CI/CD process for creating infrastructure in GCP using Terraform.",
+      "tags": [
+        "Infrastructure Automation"
+      ],
+      "speakers": [
+        "Emil__Dabrowski"
+      ],
+      "presentation": "",
+      "title": "Why Infrastructure as a Code (IaaC) is so cool?",
+      "complexity": "Intro",
+      "language": "Polish"
+    }
   },
   "speakers": {
     "Azimjon__Pulatov": {
@@ -171,7 +249,6 @@
           "link": "https://www.linkedin.com/in/emildabrowski/",
           "name": "LinkedIn"
         }
-
       ],
       "order": 4,
       "title": "Senior Cloud Architect"
@@ -694,5 +771,6 @@
   "videos": [
     {}
   ],
-  "previousSpeakers": {}
+  "previousSpeakers": {
+  }
 }
