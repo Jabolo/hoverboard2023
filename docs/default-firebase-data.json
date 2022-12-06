@@ -79,7 +79,9 @@
     "102": {
       "description": "Every coroutine needs a Job. Surprisingly, this is what forms their relationship with their children. Not an easy relationship - it involves inheritance, awaiting, cancellation, and exception handling. Even though those mechanisms might seem scary and complicated, they are actually really intuitive and reasonable once we see them from the right perspective. Let�s do that, and on the way, let�s have some fun.",
       "tags": [
-        "Kotlin Coroutines" , "Android", "Backend"
+        "Kotlin Coroutines",
+        "Android",
+        "Backend"
       ],
       "speakers": [
         "Marcin__Moskala"
@@ -92,7 +94,13 @@
     "103": {
       "description": "We'll talk about technics and methods of debugging frontend code, frequently encountered bugs in frontend development, time-saver tips and suggestion for debugging.",
       "tags": [
-        "Frontend", "JavaScript", "HTML", "CSS", "TypeScript", "Developer Tools", "Browser"
+        "Frontend",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "TypeScript",
+        "Developer Tools",
+        "Browser"
       ],
       "speakers": [
         "Diyorbek__Sadullaev"
@@ -131,7 +139,9 @@
     "106": {
       "description": "IaaC is very popular in mid-sized and big enterprises. I am going to show you how easy is to create full CI/CD process for creating infrastructure in GCP using Terraform.",
       "tags": [
-        "Infrastructure Automation", "IaaC", "Terraform"
+        "Infrastructure Automation",
+        "IaaC",
+        "Terraform"
       ],
       "speakers": [
         "Emil__Dabrowski"
@@ -157,7 +167,8 @@
     "108": {
       "description": "In this talk we'll review how to use Platform Views on Android and iOS. What are the most surprising considerations when working with them? What if some native library does not support Flutter and you need to display its UI in the app? We'll look into showing native views on desktop platforms and see what is still missing in this area.",
       "tags": [
-        "Flutter", "Mobile"
+        "Flutter",
+        "Mobile"
       ],
       "speakers": [
         "Dominik__Roszkowski"
@@ -170,7 +181,10 @@
     "109": {
       "description": "In this talk, we are going to see how can we use BigQuery ML and VertexAI Pipelines to create robust, trackable and reusable Machine Learning pipelines.  Additionally, we are going to review how to deploy Pipelines to Artifact Registry as part of CD process and trigger them easily directly from our Cloud environment.",
       "tags": [
-        "Cloud", "ML", "BigQuery", "GCP"
+        "Cloud",
+        "ML",
+        "BigQuery",
+        "GCP"
       ],
       "speakers": [
         "Stanislaw__Smyl"
@@ -183,7 +197,10 @@
     "110": {
       "description": "1.First designers in the world. First visual communication examples in the history Egypt art history Visual communication today  2.What is User Experience Position of the human in the user experience Position of the problems in the user experience Combination of the human and problem  3.User experience 30 000 years ago World first technologies User experience in world-first technologies  4.User Experience in our daily life TV remotes Shopping malls and public transportation  5.Famous brands and experience marketing What is experience marketing?  6.Experience marketing strategy of McDonald�s Golden standart of McDonald�s Gaining new clients for the future  7.My experience about UX design in a digital product Micro changes and big results",
       "tags": [
-        "Product", "Design", "UX", "UI"
+        "Product",
+        "Design",
+        "UX",
+        "UI"
       ],
       "speakers": [
         "Aiden__Sadigov"
@@ -196,7 +213,9 @@
     "111": {
       "description": "This talk outlines how to implement Modern Android Architecture to build scalable, flexible and testable apps. You�ll learn about different architecture layers, their scope and how they communicate with each other. You�ll see how the data is produced and transformed into UI state using Unidirectional Data Flow (UDF). And finally, we'll discuss how you can leverage modularization to take your codebase to the next level.",
       "tags": [
-        "Android", "Architecture", "Modularization"
+        "Android",
+        "Architecture",
+        "Modularization"
       ],
       "speakers": [
         "Milosz__Moczkowski"
@@ -209,7 +228,12 @@
     "112": {
       "description": "Hi there! This talk gonna be about How To Bootstrap your Cloud Infrastructure, get away from routine tasks and just... code. I bet we are all familiar with tfw you need setup typical Cloud Architecture for a pet/client project and just notice how much time is wasted on stuff you've already done about  1000 times before?  So am I. I asked myself if it's really necessary Of course not. In this session, we will talk through useful tools, tips&tricks and open-source projects that will simplify your life. Furthermore, I will show you how to set up your own Cloud Accelerator with Terraform and some magic. And as a cherry on top: how to personalize Accelerator for your specific needs! As simple as 1, 2, 3.",
       "tags": [
-        "cloud", "automation", "ci/cd", "terraform", "gcp", "azure"
+        "cloud",
+        "automation",
+        "ci/cd",
+        "terraform",
+        "gcp",
+        "azure"
       ],
       "speakers": [
         "Kateryna__Hrytsaienko"
@@ -222,7 +246,12 @@
     "113": {
       "description": "While building contained apps is relatively predictable in terms of complexity, building apps that interface with peripherals and IoT introduces a number of complexities which are often times overlooked by engineers. I'll walk you through a few of these and tell you how to properly mitigate them.",
       "tags": [
-        "mobile", "IoT", "wearables", "peripherals", "BLE", "Bluetooth"
+        "mobile",
+        "IoT",
+        "wearables",
+        "peripherals",
+        "BLE",
+        "Bluetooth"
       ],
       "speakers": [
         "Peter__Tuszynski"
@@ -248,7 +277,13 @@
     "115": {
       "description": "I would like to demonstrate wide capabilities of our MongoDB document model database - offered as managed service on all clouds with functionalities to address use-cases for full text search search, data archive, offline scenarios on mobile and end-to-end IoT.",
       "tags": [
-        "cloud", "search", "mobile", "mongodb", "mongodbatlas", "dbaas", "document model"
+        "cloud",
+        "search",
+        "mobile",
+        "mongodb",
+        "mongodbatlas",
+        "dbaas",
+        "document model"
       ],
       "speakers": [
         "Pawel__Manowiecki"
@@ -261,7 +296,11 @@
     "116": {
       "description": "This talk will go deep on what to take into account when deciding if your current mobile app requires a major rewrite, polish, or starting from scratch. This topic can be an endless discussion so I try to be straight to the point and base suggestions on my own experience. In the end, this should give you a better understanding what are tradeoffs and how you can prepare for them, but still, there is no one perfect answer for all projects out there.   Talk won't go into specific technical details but will touch on them and focus more on business/organization side and what advantages and disadvantages you can expect based on key decisions. Where to spend more time and where to push for `good enough` approach.",
       "tags": [
-        "mobile", "refactor", "new app", "organization", "team"
+        "mobile",
+        "refactor",
+        "new app",
+        "organization",
+        "team"
       ],
       "speakers": [
         "Michal__Tajchert"
@@ -385,15 +424,15 @@
     },
     "Jakub__Kolakowski": {
       "name": "Jakub Kołakowski",
-      "bio": "Leader of GDG Warsaw",
-      "shortBio": "Leader of GDG Warsaw",
-      "company": "SandGroup",
-      "companyLogo": "/images/logos/",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/logos%2Fno.webp?alt=media&token=da2a53cd-7f9c-492f-9ca8-d774c4613a29",
+      "bio": "Chapter Leader @ GDG Warsaw\n\nOwner @ SandGroup\n\nCTO @ SEVI\n\nCTO @ alboalbo\n\nWorking in the IT since 2002, Web enthusiast, Fuckup manager.",
+      "shortBio": "Do'er\n\nChapter Leader @ GDG Warsaw\n\nOwner @ SandGroup\n\nCTO @ SEVI\n\nCTO @ alboalbo\n\nWorking in the IT since 2002, Web enthusiast, Fuckup manager.",
+      "company": "GDG Warsaw",
+      "companyLogo": "/images/logos/gdgwarszawa.png",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/logos%2Fgdgwarszawa.png?alt=media&token=3065bdbc-8c64-4471-9f6e-84de42128674",
       "country": "Poland",
       "featured": false,
-      "photo": "/images/people/",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/team-people%2Fjkdf.png?alt=media&token=9a3ae4aa-6d9e-4fed-8fd8-ece0273c0c93",
+      "photo": "/images/people/Jakub_Kolakowski.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/speakers-people%2FJakub_Kolakowski.jpg?alt=media&token=7338cb4e-af15-4edd-915f-6e0e8baa8886",
       "socials": [
         {
           "icon": "linkedin",
@@ -417,7 +456,7 @@
         }
       ],
       "order": 5,
-      "title": "Leader of GDG Warsaw"
+      "title": "Chapter Leader"
     },
     "Stanislaw__Smyl": {
       "name": "Stanislaw Smyl",
@@ -478,19 +517,19 @@
     },
     "Mateusz__Herych ": {
       "name": "Mateusz Herych ",
-      "bio": "",
-      "shortBio": "",
+      "bio": "Mateusz is an Android Developer with over 10 years of experience working with the platform, currently typing codes at Chess.com.",
+      "shortBio": "Android Developer @ Chess.com",
       "company": "Chess.com",
-      "companyLogo": "/images/logos/",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/logos%2Fno.webp?alt=media&token=da2a53cd-7f9c-492f-9ca8-d774c4613a29",
-      "country": "",
+      "companyLogo": "/images/logos/chess.png",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/logos%2Fchess.png?alt=media&token=e695ad2b-ce5c-4d58-a8f6-9bc82da4151c",
+      "country": "Poland",
       "featured": false,
-      "photo": "/images/people/",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/speakers-people%2Fconfused_small.webp?alt=media&token=94c837ed-b930-4376-8a48-d91af69a7d17",
+      "photo": "/images/people/herych_400x400.png",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/speakers-people%2Fherych_400x400.png?alt=media&token=32e84493-523b-4ad7-94ea-99ade0709250",
       "socials": [
       ],
       "order": 8,
-      "title": ""
+      "title": "Android Developer"
     },
     "Dominik__Roszkowski": {
       "name": "Dominik Roszkowski",
@@ -730,6 +769,59 @@
       ],
       "order": 17,
       "title": "Engineering Manager"
+    },
+    "Rodolfo__Dias": {
+      "name": "Rodolfo Dias",
+      "bio": "Team Leadership ❤️ JS ❤️ Open Source\n\nRodolfo has worked in a diverse pool of companies and research centers, in South America and Europe. He is Software Engineering Manager at Yara International and manages the software engineering teams of Yara's farming experience platform, with the goal of enabling regenerative agriculture and minimizing the climate impact of farming",
+      "shortBio": "Software Engineering Manager | Google Developer Expert",
+      "company": "Yara International",
+      "title": "Software Engineering Manager",
+      "companyLogo": "/images/logos/YARA_Logo_400x400.png",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/logos%2FYARA_Logo_400x400.png?alt=media&token=135b6f3e-815a-4552-87da-9df7bf70eda0",
+      "country": "Germany",
+      "featured": false,
+      "photo": "/images/people/Rodolfo_Dias_400x400.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/speakers-people%2FRodolfo_Dias_400x400.jpg?alt=media&token=07eabf45-2f1b-49fc-97de-c917e69947bc",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/r_mdias",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/rmdias29/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 18
+    },
+    "Ewa__Gruszka": {
+      "name": "Ewa Gruszka",
+      "title": "Customer Engineer",
+      "bio": "Ewa helps the largest enterprises in their digital transformation to the Google Cloud by adopting solutions in the areas of Data, Analytics and Machine Learning.\n\nPreviously, for many years associated with the Telecommunications sector, where she was responsible for broad customer analytics, as well as building and implementing Machine Learning models predicting user behaviour. Then, together with IBM Polska, she supported companies from many industries in the use and monetisation of knowledge hidden in data.",
+      "shortBio": "Ewa helps the largest enterprises in their digital transformation to the Google Cloud by adopting solutions in the areas of Data, Analytics and Machine Learning.",
+      "company": "Google Cloud Polska",
+      "companyLogo": "/images/logos/google_cloud-ar21.svg",
+      "country": "Poland",
+      "featured": false,
+      "photo": "/images/people/Ewa_Gruszka_BIO_400x400.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/speakers-people%2FEwa_Gruszka_BIO_400x400.jpg?alt=media&token=e69a12e0-4e3f-4eb0-b934-734350270277",
+      "order": 19
+    },
+    "Michal__Zylinski": {
+      "name": "Michal Zylinski",
+      "title": "Product Manager",
+      "bio": "Michał works in Google as product manager responsible for Cloud Composer - Google Cloud’s data orchestration service. Previously he was leading a team of cloud architects, supporting Polish enterprise customers. His passion is data and its business and social impact.",
+      "shortBio": "",
+      "company": "Google",
+      "companyLogo": "/images/logos/google.svg",
+      "companyLogoUrl": "",
+      "country": "Poland",
+      "featured": false,
+      "photo": "/images/people/",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/speakers-people%2Fconfused_small.webp?alt=media&token=29a8fcb4-31fb-497f-95f4-4b1711d2ad4a",
+      "order": 20
     }
   },
   "team": [

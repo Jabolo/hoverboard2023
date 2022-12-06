@@ -268,7 +268,7 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
               <div class="origin">[[speaker.country]]</div>
 
               <text-truncate lines="5">
-                <div class="bio">[[speaker.bio]]</div>
+                <div class="shortBio">[[speaker.shortBio]]</div>
               </text-truncate>
             </div>
 
