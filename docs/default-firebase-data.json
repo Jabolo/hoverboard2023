@@ -101,7 +101,7 @@
             },
             {
               "items": [
-                "3"
+                "130"
               ]
             },
             {
@@ -202,12 +202,12 @@
             },
             {
               "items": [
-                "3"
+                10
               ]
             },
             {
               "items": [
-                "107"
+                "129"
               ],
               "extend": 2
             }
@@ -506,7 +506,7 @@
         "Tomasz__Flis"
       ],
       "presentation": "",
-      "title": "Angular - why to code",
+      "title": "Lecture: Angular - why to code",
       "complexity": "Intro",
       "language": "Polish"
     },
@@ -557,7 +557,7 @@
       "language": "English"
     },
     "111": {
-      "description": "This talk outlines how to implement Modern Android Architecture to build scalable, flexible and testable apps. Youďż˝ll learn about different architecture layers, their scope and how they communicate with each other. Youďż˝ll see how the data is produced and transformed into UI state using Unidirectional Data Flow (UDF). And finally, we'll discuss how you can leverage modularization to take your codebase to the next level.",
+      "description": "This talk outlines how to implement Modern Android Architecture to build scalable, flexible and testable apps. You'll learn about different architecture layers, their scope and how they communicate with each other. You'll see how the data is produced and transformed into UI state using Unidirectional Data Flow (UDF). And finally, we'll discuss how you can leverage modularization to take your codebase to the next level.",
       "tags": [
         "Android",
         "Architecture",
@@ -616,7 +616,7 @@
         "Yonatan__Levin"
       ],
       "presentation": "",
-      "title": "How to become a developer that everyone wants in their team?",
+      "title": "Lecture: How to become a developer that everyone wants in their team?",
       "complexity": "Intro",
       "language": "English"
     },
@@ -735,7 +735,8 @@
         "Career path"
       ],
       "speakers": [
-        "Rodolfo__Dias"
+        "Rodolfo__Dias",
+        "Nataliya__Pasichnyk"
       ],
       "presentation": "",
       "title": "Lecture: The software engineer journey: From IC to engineering manager",
@@ -748,7 +749,7 @@
         "cloud",
         "ml",
         "orchestration",
-        " cloudcomposer",
+        "cloudcomposer",
         "vertexai"
       ],
       "speakers": [
@@ -874,7 +875,7 @@
         "Mateusz__Herych"
       ],
       "presentation": "",
-      "title": "SQLite Tips and Tricks",
+      "title": "Lecture: SQLite Tips and Tricks",
       "complexity": "Medium",
       "language": "English"
     },
@@ -889,6 +890,51 @@
       "presentation": "",
       "title": "Discussion panel",
       "complexity": "Intro",
+      "language": "English"
+    },
+    "10": {
+      "title": "TBA"
+    },
+    "129": {
+      "description": "A brief introduction about how to start the journey with Angular.",
+      "tags": [
+        "web"
+      ],
+      "speakers": [
+        "Tomasz__Flis"
+      ],
+      "presentation": "",
+      "title": "Workshop: Angular - how to code",
+      "complexity": "Intro",
+      "language": "Polish"
+    },
+    "130": {
+      "description": "When we set the upper limit of PC-DOS at 640K, we thought nobody would ever need that much memory. — William Gates, chairman of Microsoft.`` In our world, RAM is becoming cheaper and cheaper every day. Having a PC/Mac with 16GB RAM is no longer a big deal. How about the mobile world? We are bombarded every year with devices with amazing specs: a flagship device with 4 GB RAM, an 8 GB device, or even one with 16 GB. On a desktop it really makes a difference. Is it the same on a smartphone? Even with 8GB of RAM, why does my app still crash when it runs out of memory? During this talk, we will learn how Android memory management works, what SWAP, GC, Native Allocations and other technical terms are. Most importantly, you'll learn how to write a junk-free and out-of-memory application. This will not be a lecture on ``don't allocate memory when you don't need it,`` but rather lessons learned when developing monday.com's Android app",
+      "tags": [
+        "mobile",
+        "android"
+      ],
+      "speakers": [
+        "Yonatan__Levin"
+      ],
+      "presentation": "",
+      "title": "Lecture: 640K ought to be enough for anyone",
+      "complexity": "Medium",
+      "language": "English"
+    },
+    "131": {
+      "description": "The so called ``Modern Data Stack`` is often explained as ever growing number of tools and frameworks that you have to use to build a modern data processing pipelines. While there are various attempts to make data pipelines more homogeneous and build your data needs around some ecosystems, the need to orchestrate your workflows is not going away - if anything, more and more of those pipelines depend on multiple tools in frameworks working together. And like an orchestra consisting of many instruments, they need to have an orchestrator - or a conductor for an orchestra - when playing together.  Apache Airlfow is by far, the most popular workflow orchestrator in the world and its getting more and more relevant, especially that it becomes more than an orchestrator. Airflow 2 turned into modern Orchestration Platform. With Airflow 2.5 released just few days ago, cementing the ``Airflow being a Platform`` approach, you can do much more than **just** orchestration.  This talk focuses on how you can leverage the new features of Airflow in fulfilling your Data Engineering needs.",
+      "tags": [
+        "cloud",
+        "orchestration",
+        "data-engineering"
+      ],
+      "speakers": [
+        "Jarek__Potiuk"
+      ],
+      "presentation": "",
+      "title": "Lecture: Modern Data Stack Pipelines with Airflow 2.5",
+      "complexity": "Medium",
       "language": "English"
     }
   },
@@ -1187,11 +1233,11 @@
     },
     "Nataliya__Pasichnyk": {
       "name": "Nataliya Pasichnyk",
-      "bio": "",
-      "shortBio": "",
+      "bio": "Nataliya is Engineering Manager at Codility, she has 5 years of experience working with Frontend technologies. Now she is leading a team of engineers, supporting their development and helping the team to deliver great features. She tries to combine coding and team management. Nataliya is Women Techmakers Ambassador and also a mentor in various programs which supports beginners in their path to IT.",
+      "shortBio": "Nataliya is Engineering Manager at Codility, she has 5 years of experience working with Frontend technologies. Now she is leading a team of engineers, supporting their development and helping the team to deliver great features. She tries to combine coding and team management. Nataliya is Women Techmakers Ambassador and also a mentor in various programs which supports beginners in their path to IT.",
       "company": "Codility",
-      "companyLogo": "/images/logos/",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/logos%2Fno.webp?alt=media&token=da2a53cd-7f9c-492f-9ca8-d774c4613a29",
+      "companyLogo": "/images/logos/codility_small.png",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/logos%2Fcodility_small.png?alt=media&token=f23eaec0-1d68-4eb6-9a6a-4fee8fbdc207",
       "country": "",
       "featured": false,
       "photo": "/images/people/",
@@ -1201,15 +1247,10 @@
           "icon": "linkedin",
           "link": "https://www.linkedin.com/in/nataliya-pasichnyk/",
           "name": "LinkedIn"
-        },
-        {
-          "icon": "facebook",
-          "link": "https://www.facebook.com/nataly.pasichnyk.5",
-          "name": "Facebook"
         }
       ],
       "order": 12,
-      "title": ""
+      "title": "Engineering Manager"
     },
     "Milosz__Moczkowski": {
       "name": "Miłosz Moczkowski",
@@ -1452,7 +1493,7 @@
       "country": "Poland",
       "featured": false,
       "photo": "/images/people/Michal__Tuszynski.jfif",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/speakers-people%2FDariusz__Kalbarczyk.jfif?alt=media&token=31b339b2-7cb8-4a96-9992-a155a2226692",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/speakers-people%2FMichal__Tuszynski.jfif?alt=media&token=93fb74c1-55b4-4b79-96ac-3d89c1c4a21e",
       "socials": [
         {
           "icon": "github",
@@ -1482,6 +1523,42 @@
         }
       ],
       "order": 24
+    },
+    "Jarek__Potiuk": {
+      "name": "Jarek Potiuk",
+      "title": "Independent Open-Source contributor and advisor",
+      "bio": "Independent Open-Source Contributor and Advisor, Committer and PMC member of Apache Airflow, Member of the Apache Software Foundation\n\nJarek is an Engineer with a broad experience in many subjects - Open-Source, Cloud, Mobile, Robotics, AI, Backend, Developer Experience, but he also had a lot of non-engineering experience - running a company, being CTO, organizing big, international community events, technical sales support, pr and marketing advisory but also looking at legal aspect of licensing and building open-source communities are all under his belt. \n\nWith the experience in very small and very big companies and everything in-between, Jarek found his place in Open-Source world, where his internal individual-contributor drive can be used to the uttermost of the potential.",
+      "shortBio": "Independent Open-Source Contributor and Advisor, Committer and PMC member of Apache Airflow, Member of the Apache Software Foundation",
+      "company": "",
+      "companyLogo": "/images/logos/",
+      "companyLogoUrl": "",
+      "country": "Poland",
+      "featured": false,
+      "photo": "/images/people/jarek_potiuk_400x400.png",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/speakers-people%2Fjarek_potiuk_400x400.png?alt=media&token=784ad3f7-9831-42f7-9df2-bbb784834608",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/potiuk",
+          "name": "Github"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/jarekpotiuk",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jarekpotiuk/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://potiuk.com",
+          "name": "blog"
+        }
+      ],
+      "order": 25
     }
   },
   "team": [
