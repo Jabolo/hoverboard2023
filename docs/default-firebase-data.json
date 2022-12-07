@@ -26,7 +26,7 @@
       "domain": "https://warsaw.devfest.pl/"
     },
     "schedule": {
-      "enabled": false
+      "enabled": true
     },
     "mailchimp": {
       "dc": "",
@@ -101,9 +101,14 @@
             },
             {
               "items": [
+                "3"
+              ]
+            },
+            {
+              "items": [
                 "120"
               ],
-              "extends": 2
+              "extend": 2
             }
           ]
         },
@@ -127,12 +132,183 @@
               ]
             }
           ]
+        },
+        {
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "sessions": [
+            {
+              "items": [
+                "121"
+              ]
+            },
+            {
+              "items": [
+                "104"
+              ]
+            },
+            {
+              "items": [
+                "109"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "12:00",
+          "endTime": "12:30",
+          "sessions": [
+            {
+              "items": [
+                "116"
+              ]
+            },
+            {
+              "items": [
+                "123"
+              ]
+            },
+            {
+              "items": [
+                "107"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "13:00",
+          "sessions": [
+            {
+              "items": [
+                "3"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "13:00",
+          "endTime": "13:30",
+          "sessions": [
+            {
+              "items": [
+                "115"
+              ]
+            },
+            {
+              "items": [
+                "105"
+              ]
+            },
+            {
+              "items": [
+                "3"
+              ]
+            },
+            {
+              "items": [
+                "107"
+              ],
+              "extend": 2
+            }
+          ]
+        },
+        {
+          "startTime": "13:30",
+          "endTime": "14:00",
+          "sessions": [
+            {
+              "items": [
+                "111"
+              ]
+            },
+            {
+              "items": [
+                "128"
+              ]
+            },
+            {
+              "items": [
+                "117"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "14:30",
+          "sessions": [
+            {
+              "items": [
+                "114"
+              ]
+            },
+            {
+              "items": [
+                "112"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "14:30",
+          "endTime": "15:00",
+          "sessions": [
+            {
+              "items": [
+                "9"
+              ]
+            },
+            {
+              "items": [
+                "113"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "15:00",
+          "endTime": "15:30",
+          "sessions": [
+            {
+              "items": [
+                "106"
+              ]
+            },
+            {
+              "items": [
+                "124"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "15:30",
+          "endTime": "16:00",
+          "sessions": [
+            {
+              "items": [
+                "4"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "18:30",
+          "endTime": "24:00",
+          "sessions": [
+            {
+              "items": [
+                "5"
+              ]
+            }
+          ]
         }
       ],
       "dateReadable": "December 10",
       "tracks": [
         {
-          "title": "Main auditorium (200)"
+          "title": "Main auditorium (200) "
         },
         {
           "title": "Room 1 (100) A 160"
@@ -145,6 +321,91 @@
         }
       ],
       "date": "2022-12-10"
+    },
+    "2022-11-12": {
+      "timeslots": [
+        {
+          "startTime": "10:00",
+          "endTime": "10:30",
+          "sessions": [
+            {
+              "items": [
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "11:30",
+          "sessions": [
+            {
+              "items": [
+                "118"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "sessions": [
+            {
+              "items": [
+                "101"
+              ]
+            },
+            {
+              "items": [
+                "127"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "13:00",
+          "sessions": [
+            {
+              "items": [
+                "3"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "13:00",
+          "endTime": "14:00",
+          "sessions": [
+            {
+              "items": [
+                "119"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "15:00",
+          "sessions": [
+            {
+              "items": [
+                "110"
+              ]
+            }
+          ]
+        }
+      ],
+      "dateReadable": "December 11",
+      "tracks": [
+        {
+          "title": "Room 3 (20) A 362"
+        },
+        {
+          "title": "Room 4 (20) A 363"
+        }
+      ],
+      "date": "2022-12-11"
     }
   },
   "sessions": {
@@ -515,108 +776,36 @@
       "language": "English"
     },
     "1": {
-      "description": "Conference start and coffee",
-      "tags": [
-        ""
-      ],
-      "speakers": [
-        ""
-      ],
-      "presentation": "",
-      "title": "Registration",
-      "complexity": "",
-      "language": ""
+      "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+      "title": "Registration & morning coffee"
     },
     "2": {
-      "description": "Opening presentation",
-      "tags": [
-        ""
-      ],
-      "speakers": [
-        ""
-      ],
-      "presentation": "",
-      "title": "Opening presentation",
-      "complexity": "",
-      "language": ""
+      "description": "Official start of the conference",
+      "title": "Opening presentation"
     },
     "3": {
       "description": "Coffee !!!",
-      "tags": [
-        ""
-      ],
-      "speakers": [
-        ""
-      ],
-      "presentation": "",
-      "title": "Coffee Break",
-      "complexity": "",
-      "language": ""
+      "title": "Coffee Break"
     },
     "4": {
       "description": "Day 1 wrap-up",
-      "tags": [
-        ""
-      ],
-      "speakers": [
-        ""
-      ],
-      "presentation": "",
-      "title": "Day 1 wrap-up",
-      "complexity": "",
-      "language": ""
+      "title": "Day 1 wrap-up"
     },
     "5": {
       "description": "After party",
-      "tags": [
-        ""
-      ],
-      "speakers": [
-        ""
-      ],
-      "presentation": "",
-      "title": "After party",
-      "complexity": "",
-      "language": ""
+      "title": "After party"
     },
     "6": {
       "description": "Coffee and networking",
-      "tags": [
-        ""
-      ],
-      "speakers": [
-        ""
-      ],
-      "presentation": "",
-      "title": "Coffee and networking",
-      "complexity": "",
-      "language": ""
+      "title": "Coffee and networking"
     },
     "7": {
       "description": "Coffee Break",
-      "tags": [
-        ""
-      ],
-      "speakers": [
-        ""
-      ],
-      "presentation": "",
-      "title": "Coffee Break",
-      "complexity": "",
-      "language": ""
+      "title": "Coffee Break"
     },
     "8": {
       "description": "Conference wrap up",
-      "tags": [
-        ""
-      ],
-      "speakers": [
-        ""
-      ],
-      "presentation": "",
-      "title": "Conference wrap up",
-      "complexity": "",
-      "language": ""
+      "title": "Conference wrap up"
     },
     "124": {
       "description": "Angular is a full-fledged framework that provides a complete solution for building web applications, including tools for building the user interface, managing data, and implementing business logic. It uses a language called TypeScript, which is a superset of JavaScript that adds optional static typing and other features. This makes Angular well-suited for large, complex applications that require a lot of code and strong typing. The aim of this presentation is to introduce this unconventional tool and how it can be used intelligently.     ",
@@ -672,6 +861,34 @@
       "presentation": "",
       "title": "Workshop: Essentials of Kotlin Coroutines",
       "complexity": "Medium",
+      "language": "English"
+    },
+    "128": {
+      "description": "SQLite is a light (as the name suggests!) but a very powerful tool for application developers (not only Android ones!). During this talk Mateusz will walk you through some tips and tricks that you might have missed but may help you with work with your data in a more pleasant or performant way.",
+      "tags": [
+        "android",
+        "databases",
+        "sqlite"
+      ],
+      "speakers": [
+        "Mateusz__Herych"
+      ],
+      "presentation": "",
+      "title": "SQLite Tips and Tricks",
+      "complexity": "Medium",
+      "language": "English"
+    },
+    "9": {
+      "description": "",
+      "tags": [
+        ""
+      ],
+      "speakers": [
+        "Jakub__Kolakowski"
+      ],
+      "presentation": "",
+      "title": "Discussion panel",
+      "complexity": "Intro",
       "language": "English"
     }
   },
@@ -879,7 +1096,7 @@
       "order": 7,
       "title": "Senior Frontend Developer"
     },
-    "Mateusz__Herych ": {
+    "Mateusz__Herych": {
       "name": "Mateusz Herych ",
       "bio": "Mateusz is an Android Developer with over 10 years of experience working with the platform, currently typing codes at Chess.com.",
       "shortBio": "Android Developer @ Chess.com",
