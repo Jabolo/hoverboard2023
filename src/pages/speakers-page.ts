@@ -193,19 +193,19 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
       </style>
 
       <simple-hero page="speakers"></simple-hero>
-      <div class="container">
-        <div class="action-buttons" layout horizontal wrap>
-          <a href="https://forms.gle/jmEC6CQJXtpNx75N6"
-             target="_blank">
-            <paper-button class="cta-button animated icon-right"
-            ">
-            <span>Call4Papers</span>
-            <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
-            </paper-button>
-          </a>
-          </a>
-        </div>
-      </div>
+<!--      <div class="container">-->
+<!--        <div class="action-buttons" layout horizontal wrap>-->
+<!--          <a href="https://forms.gle/jmEC6CQJXtpNx75N6"-->
+<!--             target="_blank">-->
+<!--            <paper-button class="cta-button animated icon-right"-->
+<!--            ">-->
+<!--            <span>Call4Papers</span>-->
+<!--            <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>-->
+<!--            </paper-button>-->
+<!--          </a>-->
+<!--          </a>-->
+<!--        </div>-->
+<!--      </div>-->
 
 
       <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>

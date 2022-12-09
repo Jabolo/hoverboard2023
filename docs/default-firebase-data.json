@@ -224,7 +224,7 @@
             },
             {
               "items": [
-                "128"
+                "131"
               ]
             },
             {
@@ -247,7 +247,20 @@
               "items": [
                 "112"
               ]
+            },
+            {
+              "items": [
+                "10"
+              ],
+              "extend": 3
+            },
+            {
+              "items": [
+                "133"
+              ],
+              "extend": 3
             }
+
           ]
         },
         {
@@ -308,16 +321,16 @@
       "dateReadable": "December 10",
       "tracks": [
         {
-          "title": "Main auditorium (200) "
+          "title": "Main auditorium"
         },
         {
-          "title": "Room 1 (100) A 160"
+          "title": "A160"
         },
         {
-          "title": "Room 2 (30) A364"
+          "title": "A364"
         },
         {
-          "title": "Room 3 (20) A 362"
+          "title": "A362"
         }
       ],
       "date": "2022-12-10"
@@ -381,6 +394,11 @@
               "items": [
                 "119"
               ]
+            },
+            {
+              "items": [
+                "132"
+              ]
             }
           ]
         },
@@ -399,10 +417,10 @@
       "dateReadable": "December 11",
       "tracks": [
         {
-          "title": "Room 3 (20) A 362"
+          "title": "A362"
         },
         {
-          "title": "Room 4 (20) A 363"
+          "title": "A363"
         }
       ],
       "date": "2022-12-11"
@@ -459,7 +477,7 @@
     "104": {
       "description": "The Internet is an awesome place where everyone can find interesting materials for them. Unfortunately, sometimes we forget some people cannot use it the same way as most of us - e.g. people with vision, motion, or cognitive disabilities. Why is accessibility so unpopular among developers? I believe it's not because of bad will - we often don't understand our users' problems. It's why I want to show some tricks to better understand users with disabilities, talk about the most popular mistakes (and fixes for them), and improvements you can include in your development process to avoid accessibility problems in the future.",
       "tags": [
-        "web accessibility"
+        "Web Accessibility"
       ],
       "speakers": [
         "Dominika__Zajac"
@@ -574,12 +592,12 @@
     "112": {
       "description": "Hi there! This talk gonna be about How To Bootstrap your Cloud Infrastructure, get away from routine tasks and just... code. I bet we are all familiar with tfw you need setup typical Cloud Architecture for a pet/client project and just notice how much time is wasted on stuff you've already done about  1000 times before?  So am I. I asked myself if it's really necessary Of course not. In this session, we will talk through useful tools, tips&tricks and open-source projects that will simplify your life. Furthermore, I will show you how to set up your own Cloud Accelerator with Terraform and some magic. And as a cherry on top: how to personalize Accelerator for your specific needs! As simple as 1, 2, 3.",
       "tags": [
-        "cloud",
-        "automation",
-        "ci/cd",
-        "terraform",
-        "gcp",
-        "azure"
+        "Cloud",
+        "Automation",
+        "CI/CD",
+        "Terraform",
+        "GCP",
+        "Azure"
       ],
       "speakers": [
         "Kateryna__Hrytsaienko"
@@ -592,10 +610,10 @@
     "113": {
       "description": "While building contained apps is relatively predictable in terms of complexity, building apps that interface with peripherals and IoT introduces a number of complexities which are often times overlooked by engineers. I'll walk you through a few of these and tell you how to properly mitigate them.",
       "tags": [
-        "mobile",
+        "Mobile",
         "IoT",
-        "wearables",
-        "peripherals",
+        "Wearables",
+        "Peripherals",
         "BLE",
         "Bluetooth"
       ],
@@ -623,13 +641,13 @@
     "115": {
       "description": "I would like to demonstrate wide capabilities of our MongoDB document model database - offered as managed service on all clouds with functionalities to address use-cases for full text search search, data archive, offline scenarios on mobile and end-to-end IoT.",
       "tags": [
-        "cloud",
-        "search",
-        "mobile",
-        "mongodb",
-        "mongodbatlas",
-        "dbaas",
-        "document model"
+        "Cloud",
+        "Search",
+        "Mobile",
+        "MongoDB",
+        "MongoDB-Atlas",
+        "DBaaS",
+        "Document Model"
       ],
       "speakers": [
         "Pawel__Manowiecki"
@@ -642,11 +660,11 @@
     "116": {
       "description": "This talk will go deep on what to take into account when deciding if your current mobile app requires a major rewrite, polish, or starting from scratch. This topic can be an endless discussion so I try to be straight to the point and base suggestions on my own experience. In the end, this should give you a better understanding what are tradeoffs and how you can prepare for them, but still, there is no one perfect answer for all projects out there.   Talk won't go into specific technical details but will touch on them and focus more on business/organization side and what advantages and disadvantages you can expect based on key decisions. Where to spend more time and where to push for `good enough` approach.",
       "tags": [
-        "mobile",
-        "refactor",
-        "new app",
-        "organization",
-        "team"
+        "Mobile",
+        "Refactor",
+        "New App",
+        "Organization",
+        "Team"
       ],
       "speakers": [
         "Michal__Tajchert"
@@ -735,8 +753,7 @@
         "Career path"
       ],
       "speakers": [
-        "Rodolfo__Dias",
-        "Nataliya__Pasichnyk"
+        "Rodolfo__Dias"
       ],
       "presentation": "",
       "title": "Lecture: The software engineer journey: From IC to engineering manager",
@@ -746,11 +763,11 @@
     "122": {
       "description": "During our speech we will describe how data pipelines are built from various perspectives. We will show the difference between the Data Scientist's tasks and how they differ from Data Engineer's work. Do they exclude each other or rather they are complementary? What is the symbiosis between Cloud Composer and Google Vertex AI?",
       "tags": [
-        "cloud",
-        "ml",
-        "orchestration",
-        "cloudcomposer",
-        "vertexai"
+        "Cloud",
+        "ML",
+        "Orchestration",
+        "CloudComposer",
+        "VertexAI"
       ],
       "speakers": [
         "Ewa__Gruszka",
@@ -765,14 +782,14 @@
       "description": "Evolution Of Cloud / Adaptation of CI-CD",
       "tags": [
         "Cloud",
-        "CI-CD",
+        "CI/CD",
         "Agile"
       ],
       "speakers": [
         "Dilraj__Singh"
       ],
       "presentation": "",
-      "title": "Lecture: Evolution Of Cloud / Adaptation of CI-CD",
+      "title": "Lecture: Evolution Of Cloud in IT Industry and CI-CD",
       "complexity": "Medium",
       "language": "English"
     },
@@ -827,7 +844,7 @@
     "125": {
       "description": "I've attended many hackathons all over the world and even managed to win a few of them. During my talk, I'll share some practical tips on how to efficiently build a mobile app and pitch it to the judges in less than 24h.",
       "tags": [
-        ""
+        "Mobile"
       ],
       "speakers": [
         "Michal__Tuszynski"
@@ -864,25 +881,10 @@
       "complexity": "Medium",
       "language": "English"
     },
-    "128": {
-      "description": "SQLite is a light (as the name suggests!) but a very powerful tool for application developers (not only Android ones!). During this talk Mateusz will walk you through some tips and tricks that you might have missed but may help you with work with your data in a more pleasant or performant way.",
-      "tags": [
-        "android",
-        "databases",
-        "sqlite"
-      ],
-      "speakers": [
-        "Mateusz__Herych"
-      ],
-      "presentation": "",
-      "title": "Lecture: SQLite Tips and Tricks",
-      "complexity": "Medium",
-      "language": "English"
-    },
     "9": {
       "description": "",
       "tags": [
-        ""
+        "Discussion"
       ],
       "speakers": [
         "Jakub__Kolakowski"
@@ -899,7 +901,7 @@
     "129": {
       "description": "A brief introduction about how to start the journey with Angular.",
       "tags": [
-        "web"
+        "Web"
       ],
       "speakers": [
         "Tomasz__Flis"
@@ -912,8 +914,8 @@
     "130": {
       "description": "When we set the upper limit of PC-DOS at 640K, we thought nobody would ever need that much memory. — William Gates, chairman of Microsoft.`` In our world, RAM is becoming cheaper and cheaper every day. Having a PC/Mac with 16GB RAM is no longer a big deal. How about the mobile world? We are bombarded every year with devices with amazing specs: a flagship device with 4 GB RAM, an 8 GB device, or even one with 16 GB. On a desktop it really makes a difference. Is it the same on a smartphone? Even with 8GB of RAM, why does my app still crash when it runs out of memory? During this talk, we will learn how Android memory management works, what SWAP, GC, Native Allocations and other technical terms are. Most importantly, you'll learn how to write a junk-free and out-of-memory application. This will not be a lecture on ``don't allocate memory when you don't need it,`` but rather lessons learned when developing monday.com's Android app",
       "tags": [
-        "mobile",
-        "android"
+        "Mobile",
+        "Android"
       ],
       "speakers": [
         "Yonatan__Levin"
@@ -924,11 +926,11 @@
       "language": "English"
     },
     "131": {
-      "description": "The so called ``Modern Data Stack`` is often explained as ever growing number of tools and frameworks that you have to use to build a modern data processing pipelines. While there are various attempts to make data pipelines more homogeneous and build your data needs around some ecosystems, the need to orchestrate your workflows is not going away - if anything, more and more of those pipelines depend on multiple tools in frameworks working together. And like an orchestra consisting of many instruments, they need to have an orchestrator - or a conductor for an orchestra - when playing together.  Apache Airlfow is by far, the most popular workflow orchestrator in the world and its getting more and more relevant, especially that it becomes more than an orchestrator. Airflow 2 turned into modern Orchestration Platform. With Airflow 2.5 released just few days ago, cementing the ``Airflow being a Platform`` approach, you can do much more than **just** orchestration.  This talk focuses on how you can leverage the new features of Airflow in fulfilling your Data Engineering needs.",
+      "description": "The so called ``Modern Data Stack`` is often explained as ever growing number of tools and frameworks that you have to use to build a modern data processing pipelines. While there are various attempts to make data pipelines more homogeneous and build your data needs around some ecosystems, the need to orchestrate your workflows is not going away - if anything, more and more of those pipelines depend on multiple tools in frameworks working together. And like an orchestra consisting of many instruments, they need to have an orchestrator - or a conductor for an orchestra - when playing together.\n \n Apache Airlfow is by far, the most popular workflow orchestrator in the world and its getting more and more relevant, especially that it becomes more than an orchestrator. Airflow 2 turned into modern Orchestration Platform. With Airflow 2.5 released just few days ago, cementing the ``Airflow being a Platform`` approach, you can do much more than **just** orchestration.\n \n This talk focuses on how you can leverage the new features of Airflow in fulfilling your Data Engineering needs.",
       "tags": [
-        "cloud",
-        "orchestration",
-        "data-engineering"
+        "Cloud",
+        "Orchestration",
+        "Data-Engineering"
       ],
       "speakers": [
         "Jarek__Potiuk"
@@ -936,6 +938,33 @@
       "presentation": "",
       "title": "Lecture: Modern Data Stack Pipelines with Airflow 2.5",
       "complexity": "Medium",
+      "language": "English"
+    },
+    "132": {
+      "description": "You've already made the decision to become an Engineering Manager, whether it's a new company and a new team or a change of career direction at your current company. During the discussion, Nataliya & Rodolfo will share the learnings from challenges they faced in this transition, practical tips, and what motivated them not to give.",
+      "tags": [
+        "Discussion"
+      ],
+      "speakers": [
+        "Nataliya__Pasichnyk",
+        "Rodolfo__Dias"
+      ],
+      "presentation": "",
+      "title": "Discussion: Journey from IC to Engineering Manager",
+      "complexity": "Intro",
+      "language": "English"
+    },
+    "133": {
+      "description": "Jump into MongoDB Atlas yourself and complete a series of exercises led by our team of solution architects, who will be there to support you and answer any questions. Exercises will include basic MQL CRUD operations, indexes and general index building guidelines, creating aggregation pipeline queries, and Search! Things that should be installed by participants: \n\nInstall MongoDB Compass: https://www.mongodb.com/try/download/compass",
+      "tags": [
+        "Cloud"
+      ],
+      "speakers": [
+        "Pawel__Manowiecki"
+      ],
+      "presentation": "",
+      "title": "Workshop: Create your first MongoDB Atlas cluster on Google Cloud [BYOD]",
+      "complexity": "Intro",
       "language": "English"
     }
   },
@@ -1053,7 +1082,7 @@
     "Jakub__Kolakowski": {
       "name": "Jakub Kołakowski",
       "bio": "Chapter Leader @ GDG Warsaw\n\nOwner @ SandGroup\n\nCTO @ SEVI\n\nCTO @ alboalbo\n\nWorking in the IT since 2002, Web enthusiast, Fuckup manager.",
-      "shortBio": "Do'er\n\nChapter Leader @ GDG Warsaw\n\nOwner @ SandGroup\n\nCTO @ SEVI\n\nCTO @ alboalbo\n\nWorking in the IT since 2002, Web enthusiast, Fuckup manager.",
+      "shortBio": "Do'er + Chapter Leader @ GDG Warsaw + Owner @ SandGroup + CTO @ SEVI + CTO @ alboalbo + Working in the IT since 2002, Web enthusiast, Fuckup manager.",
       "company": "GDG Warsaw",
       "companyLogo": "/images/logos/gdgwarszawa_short.png",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/logos%2Fgdgwarszawa_short.png?alt=media&token=6c8014f9-e68f-4cf0-9888-227fe4e23001",
@@ -1142,22 +1171,6 @@
       ],
       "order": 7,
       "title": "Senior Frontend Developer"
-    },
-    "Mateusz__Herych": {
-      "name": "Mateusz Herych ",
-      "bio": "Mateusz is an Android Developer with over 10 years of experience working with the platform, currently typing codes at Chess.com.",
-      "shortBio": "Android Developer @ Chess.com",
-      "company": "Chess.com",
-      "companyLogo": "/images/logos/chess.png",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/logos%2Fchess.png?alt=media&token=e695ad2b-ce5c-4d58-a8f6-9bc82da4151c",
-      "country": "Poland",
-      "featured": false,
-      "photo": "/images/people/herych_400x400.png",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/speakers-people%2Fherych_400x400.png?alt=media&token=32e84493-523b-4ad7-94ea-99ade0709250",
-      "socials": [
-      ],
-      "order": 8,
-      "title": "Android Developer"
     },
     "Dominik__Roszkowski": {
       "name": "Dominik Roszkowski",
@@ -1532,7 +1545,7 @@
       "shortBio": "Independent Open-Source Contributor and Advisor, Committer and PMC member of Apache Airflow, Member of the Apache Software Foundation",
       "company": "",
       "companyLogo": "/images/logos/",
-      "companyLogoUrl": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/logos%2Fno.webp?alt=media&token=f312c1f3-d205-43c7-ba00-66b389346075",
       "country": "Poland",
       "featured": false,
       "photo": "/images/people/jarek_potiuk_400x400.png",
