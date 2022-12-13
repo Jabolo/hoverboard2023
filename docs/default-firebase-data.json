@@ -408,6 +408,11 @@
           "sessions": [
             {
               "items": [
+                "126"
+              ]
+            },
+            {
+              "items": [
                 "110"
               ]
             }
@@ -570,7 +575,7 @@
         "Aiden__Sadigov"
       ],
       "presentation": "",
-      "title": "Workshop: User Experience Design in Our Daily Life",
+      "title": "Lecture: User Experience Design in Our Daily Life",
       "complexity": "Medium",
       "language": "English"
     },
@@ -802,16 +807,17 @@
       "title": "Opening presentation"
     },
     "3": {
-      "description": "Coffee !!!",
-      "title": "Coffee Break"
+      "description": "Coffee and quizes on the 0 Floor",
+      "title": "Coffee Break + Kahoots !!!"
     },
     "4": {
       "description": "Day 1 wrap-up",
       "title": "Day 1 wrap-up"
     },
     "5": {
-      "description": "After party",
+      "description": "We invite everyone today to afterparty at  18.30. Password at the entrance DEVFEST. MultiPub Pod Grubą Kaśką, aleja Solidarności 68a, 00-240 Warszawa",
       "title": "After party"
+
     },
     "6": {
       "description": "Coffee and networking",
@@ -1202,7 +1208,7 @@
       "name": "Aiden Sadigov",
       "bio": "",
       "shortBio": "",
-      "company": "Awesomic Inc.",
+      "company": "Brelly",
       "companyLogo": "/images/logos/",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/logos%2Fno.webp?alt=media&token=da2a53cd-7f9c-492f-9ca8-d774c4613a29",
       "country": "Poland",
@@ -1321,7 +1327,7 @@
         }
       ],
       "order": 14,
-      "title": "Java Consultant at Valtech | Google DSC Mentor | Women Techmakers Ambassador"
+      "title": "Java Consultant at Valtech | Google GDSC Mentor | Women Techmakers Ambassador"
     },
     "Yonatan__Levin": {
       "name": "Yonatan Levin",
