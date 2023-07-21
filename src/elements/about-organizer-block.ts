@@ -62,7 +62,14 @@ export class AboutOrganizerBlock extends ReduxMixin(PolymerElement) {
       </style>
 
       <div class="container" layout horizontal>
-        <div class="evenly-distributed-children" layout vertical center-center flex hidden$="[[viewport.isPhone]]">
+        <div
+          class="evenly-distributed-children"
+          layout
+          vertical
+          center-center
+          flex
+          hidden$="[[viewport.isPhone]]"
+        >
           <a href="/team" class="image-link">
             <lazy-image
               class="organizers-photo"
@@ -77,12 +84,11 @@ export class AboutOrganizerBlock extends ReduxMixin(PolymerElement) {
               alt="Organizer"
             ></lazy-image>
           </a>
-          <a href="https://gdsc.community.dev/polish-japanese-academy-of-information-technology/" class="image-link">
-            <lazy-image
-              class="gdg-photo"
-              src="/images/GDSC-logo.svg"
-              alt="Organizer"
-            ></lazy-image>
+          <a
+            href="https://gdsc.community.dev/polish-japanese-academy-of-information-technology/"
+            class="image-link"
+          >
+            <lazy-image class="gdg-photo" src="/images/GDSC-logo.svg" alt="Organizer"></lazy-image>
           </a>
         </div>
 

@@ -1,6 +1,5 @@
 {
-  "blog": {
-  },
+  "blog": {},
   "gallery": [
     "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/01_600x400.jpg?alt=media&token=a172e905-e2cc-476b-b78d-a9237e2518ba",
     "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/27_600x400.jpg?alt=media&token=a8c42496-b24a-474a-98e3-d96e0e87c5cd",
@@ -68,9 +67,7 @@
           "endTime": "10:00",
           "sessions": [
             {
-              "items": [
-                "1"
-              ]
+              "items": ["1"]
             }
           ]
         },
@@ -79,9 +76,7 @@
           "endTime": "10:30",
           "sessions": [
             {
-              "items": [
-                "2"
-              ]
+              "items": ["2"]
             }
           ]
         },
@@ -90,24 +85,16 @@
           "endTime": "11:00",
           "sessions": [
             {
-              "items": [
-                "122"
-              ]
+              "items": ["122"]
             },
             {
-              "items": [
-                "125"
-              ]
+              "items": ["125"]
             },
             {
-              "items": [
-                "130"
-              ]
+              "items": ["130"]
             },
             {
-              "items": [
-                "120"
-              ],
+              "items": ["120"],
               "extend": 2
             }
           ]
@@ -117,19 +104,13 @@
           "endTime": "11:30",
           "sessions": [
             {
-              "items": [
-                "102"
-              ]
+              "items": ["102"]
             },
             {
-              "items": [
-                "108"
-              ]
+              "items": ["108"]
             },
             {
-              "items": [
-                "103"
-              ]
+              "items": ["103"]
             }
           ]
         },
@@ -138,19 +119,13 @@
           "endTime": "12:00",
           "sessions": [
             {
-              "items": [
-                "121"
-              ]
+              "items": ["121"]
             },
             {
-              "items": [
-                "104"
-              ]
+              "items": ["104"]
             },
             {
-              "items": [
-                "109"
-              ]
+              "items": ["109"]
             }
           ]
         },
@@ -159,19 +134,13 @@
           "endTime": "12:30",
           "sessions": [
             {
-              "items": [
-                "116"
-              ]
+              "items": ["116"]
             },
             {
-              "items": [
-                "123"
-              ]
+              "items": ["123"]
             },
             {
-              "items": [
-                "107"
-              ]
+              "items": ["107"]
             }
           ]
         },
@@ -180,9 +149,7 @@
           "endTime": "13:00",
           "sessions": [
             {
-              "items": [
-                "3"
-              ]
+              "items": ["3"]
             }
           ]
         },
@@ -191,24 +158,16 @@
           "endTime": "13:30",
           "sessions": [
             {
-              "items": [
-                "115"
-              ]
+              "items": ["115"]
             },
             {
-              "items": [
-                "105"
-              ]
+              "items": ["105"]
             },
             {
-              "items": [
-                "10"
-              ]
+              "items": ["10"]
             },
             {
-              "items": [
-                "129"
-              ],
+              "items": ["129"],
               "extend": 2
             }
           ]
@@ -218,19 +177,13 @@
           "endTime": "14:00",
           "sessions": [
             {
-              "items": [
-                "111"
-              ]
+              "items": ["111"]
             },
             {
-              "items": [
-                "131"
-              ]
+              "items": ["131"]
             },
             {
-              "items": [
-                "117"
-              ]
+              "items": ["117"]
             }
           ]
         },
@@ -239,28 +192,19 @@
           "endTime": "14:30",
           "sessions": [
             {
-              "items": [
-                "114"
-              ]
+              "items": ["114"]
             },
             {
-              "items": [
-                "112"
-              ]
+              "items": ["112"]
             },
             {
-              "items": [
-                "10"
-              ],
+              "items": ["10"],
               "extend": 3
             },
             {
-              "items": [
-                "133"
-              ],
+              "items": ["133"],
               "extend": 3
             }
-
           ]
         },
         {
@@ -268,14 +212,10 @@
           "endTime": "15:00",
           "sessions": [
             {
-              "items": [
-                "9"
-              ]
+              "items": ["9"]
             },
             {
-              "items": [
-                "113"
-              ]
+              "items": ["113"]
             }
           ]
         },
@@ -284,14 +224,10 @@
           "endTime": "15:30",
           "sessions": [
             {
-              "items": [
-                "106"
-              ]
+              "items": ["106"]
             },
             {
-              "items": [
-                "124"
-              ]
+              "items": ["124"]
             }
           ]
         },
@@ -300,9 +236,7 @@
           "endTime": "16:00",
           "sessions": [
             {
-              "items": [
-                "4"
-              ]
+              "items": ["4"]
             }
           ]
         },
@@ -311,9 +245,7 @@
           "endTime": "24:00",
           "sessions": [
             {
-              "items": [
-                "5"
-              ]
+              "items": ["5"]
             }
           ]
         }
@@ -342,9 +274,7 @@
           "endTime": "10:30",
           "sessions": [
             {
-              "items": [
-                "1"
-              ]
+              "items": ["1"]
             }
           ]
         },
@@ -353,9 +283,7 @@
           "endTime": "11:30",
           "sessions": [
             {
-              "items": [
-                "118"
-              ]
+              "items": ["118"]
             }
           ]
         },
@@ -364,14 +292,10 @@
           "endTime": "12:30",
           "sessions": [
             {
-              "items": [
-                "101"
-              ]
+              "items": ["101"]
             },
             {
-              "items": [
-                "127"
-              ]
+              "items": ["127"]
             }
           ]
         },
@@ -380,9 +304,7 @@
           "endTime": "13:00",
           "sessions": [
             {
-              "items": [
-                "3"
-              ]
+              "items": ["3"]
             }
           ]
         },
@@ -391,14 +313,10 @@
           "endTime": "14:00",
           "sessions": [
             {
-              "items": [
-                "119"
-              ]
+              "items": ["119"]
             },
             {
-              "items": [
-                "132"
-              ]
+              "items": ["132"]
             }
           ]
         },
@@ -407,14 +325,10 @@
           "endTime": "15:00",
           "sessions": [
             {
-              "items": [
-                "126"
-              ]
+              "items": ["126"]
             },
             {
-              "items": [
-                "110"
-              ]
+              "items": ["110"]
             }
           ]
         }
@@ -434,12 +348,8 @@
   "sessions": {
     "101": {
       "description": "In the last 2 years, I mastered the art of cracking the coding and system design interviews and landed on multiple offers from FAANG companies. During this time, I collected useful tips and tricks to make the proccess easier and more fun.   During the workshop, I will present a sample system design intreview question and walk through a solution which can easily impress interviewers. I will share with my intrerview experience with Facebook, Amazon, Bloomberg and resources to prepare for them.",
-      "tags": [
-        ""
-      ],
-      "speakers": [
-        "Azimjon__Pulatov"
-      ],
+      "tags": [""],
+      "speakers": ["Azimjon__Pulatov"],
       "presentation": "",
       "title": "Workshop: Cracking the System Desing Interview",
       "complexity": "Medium",
@@ -447,14 +357,8 @@
     },
     "102": {
       "description": "Every coroutine needs a Job. Surprisingly, this is what forms their relationship with their children. Not an easy relationship - it involves inheritance, awaiting, cancellation, and exception handling. Even though those mechanisms might seem scary and complicated, they are actually really intuitive and reasonable once we see them from the right perspective. Letďż˝s do that, and on the way, letďż˝s have some fun.",
-      "tags": [
-        "Kotlin Coroutines",
-        "Android",
-        "Backend"
-      ],
-      "speakers": [
-        "Marcin__Moskala"
-      ],
+      "tags": ["Kotlin Coroutines", "Android", "Backend"],
+      "speakers": ["Marcin__Moskala"],
       "presentation": "",
       "title": "Lecture: Parents cancelling their children - hard relationship between Kotlin coroutines",
       "complexity": "Medium",
@@ -462,18 +366,8 @@
     },
     "103": {
       "description": "We'll talk about technics and methods of debugging frontend code, frequently encountered bugs in frontend development, time-saver tips and suggestion for debugging.",
-      "tags": [
-        "Frontend",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "TypeScript",
-        "Developer Tools",
-        "Browser"
-      ],
-      "speakers": [
-        "Diyorbek__Sadullaev"
-      ],
+      "tags": ["Frontend", "JavaScript", "HTML", "CSS", "TypeScript", "Developer Tools", "Browser"],
+      "speakers": ["Diyorbek__Sadullaev"],
       "presentation": "",
       "title": "Lecture: Debugging Frontend Applications",
       "complexity": "Medium",
@@ -481,12 +375,8 @@
     },
     "104": {
       "description": "The Internet is an awesome place where everyone can find interesting materials for them. Unfortunately, sometimes we forget some people cannot use it the same way as most of us - e.g. people with vision, motion, or cognitive disabilities. Why is accessibility so unpopular among developers? I believe it's not because of bad will - we often don't understand our users' problems. It's why I want to show some tricks to better understand users with disabilities, talk about the most popular mistakes (and fixes for them), and improvements you can include in your development process to avoid accessibility problems in the future.",
-      "tags": [
-        "Web Accessibility"
-      ],
-      "speakers": [
-        "Dominika__Zajac"
-      ],
+      "tags": ["Web Accessibility"],
+      "speakers": ["Dominika__Zajac"],
       "presentation": "",
       "title": "Lecture: How to make the Internet accessible for everyone",
       "complexity": "Intro",
@@ -494,12 +384,8 @@
     },
     "105": {
       "description": "The Kotlin type system is amazingly designed. It was designed and constantly improved for years, and it was built based on experiences from other typing systems. As a result, it gives us very comfortable nullability support, type inference, universal guards, and much more. In this presentation, weďż˝ll dive deep into Kotlin typing systems and how small design choices lead to a better programming experience.",
-      "tags": [
-        "Kotlin"
-      ],
-      "speakers": [
-        "Marcin__Moskala"
-      ],
+      "tags": ["Kotlin"],
+      "speakers": ["Marcin__Moskala"],
       "presentation": "",
       "title": "The beauty of the Kotlin type system",
       "complexity": "Medium",
@@ -507,14 +393,8 @@
     },
     "106": {
       "description": "IaaC is very popular in mid-sized and big enterprises. I am going to show you how easy is to create full CI/CD process for creating infrastructure in GCP using Terraform.",
-      "tags": [
-        "Infrastructure Automation",
-        "IaaC",
-        "Terraform"
-      ],
-      "speakers": [
-        "Emil__Dabrowski"
-      ],
+      "tags": ["Infrastructure Automation", "IaaC", "Terraform"],
+      "speakers": ["Emil__Dabrowski"],
       "presentation": "",
       "title": "Lecture: Why Infrastructure as a Code (IaaC) is so cool?",
       "complexity": "Intro",
@@ -522,12 +402,8 @@
     },
     "107": {
       "description": "This short story is about why we should go with Angular Framework and what it gives us.",
-      "tags": [
-        "Web"
-      ],
-      "speakers": [
-        "Tomasz__Flis"
-      ],
+      "tags": ["Web"],
+      "speakers": ["Tomasz__Flis"],
       "presentation": "",
       "title": "Lecture: Angular - why to code",
       "complexity": "Intro",
@@ -535,13 +411,8 @@
     },
     "108": {
       "description": "In this talk we'll review how to use Platform Views on Android and iOS. What are the most surprising considerations when working with them? What if some native library does not support Flutter and you need to display its UI in the app? We'll look into showing native views on desktop platforms and see what is still missing in this area.",
-      "tags": [
-        "Flutter",
-        "Mobile"
-      ],
-      "speakers": [
-        "Dominik__Roszkowski"
-      ],
+      "tags": ["Flutter", "Mobile"],
+      "speakers": ["Dominik__Roszkowski"],
       "presentation": "",
       "title": "Lecture: Native Platform Views in Flutter for Mobile and Beyond",
       "complexity": "Advanced",
@@ -549,15 +420,8 @@
     },
     "109": {
       "description": "In this talk, we are going to see how can we use BigQuery ML and VertexAI Pipelines to create robust, trackable and reusable Machine Learning pipelines.  Additionally, we are going to review how to deploy Pipelines to Artifact Registry as part of CD process and trigger them easily directly from our Cloud environment.",
-      "tags": [
-        "Cloud",
-        "ML",
-        "BigQuery",
-        "GCP"
-      ],
-      "speakers": [
-        "Stanislaw__Smyl"
-      ],
+      "tags": ["Cloud", "ML", "BigQuery", "GCP"],
+      "speakers": ["Stanislaw__Smyl"],
       "presentation": "",
       "title": "Lecture: Using BigQuery ML in Vertex AI Pipelines: easy and robust MLOps",
       "complexity": "Medium",
@@ -565,15 +429,8 @@
     },
     "110": {
       "description": "1.First designers in the world. First visual communication examples in the history Egypt art history Visual communication today  2.What is User Experience Position of the human in the user experience Position of the problems in the user experience Combination of the human and problem  3.User experience 30 000 years ago World first technologies User experience in world-first technologies  4.User Experience in our daily life TV remotes Shopping malls and public transportation  5.Famous brands and experience marketing What is experience marketing?  6.Experience marketing strategy of McDonaldďż˝s Golden standart of McDonaldďż˝s Gaining new clients for the future  7.My experience about UX design in a digital product Micro changes and big results",
-      "tags": [
-        "Product",
-        "Design",
-        "UX",
-        "UI"
-      ],
-      "speakers": [
-        "Aiden__Sadigov"
-      ],
+      "tags": ["Product", "Design", "UX", "UI"],
+      "speakers": ["Aiden__Sadigov"],
       "presentation": "",
       "title": "Lecture: User Experience Design in Our Daily Life",
       "complexity": "Medium",
@@ -581,14 +438,8 @@
     },
     "111": {
       "description": "This talk outlines how to implement Modern Android Architecture to build scalable, flexible and testable apps. You'll learn about different architecture layers, their scope and how they communicate with each other. You'll see how the data is produced and transformed into UI state using Unidirectional Data Flow (UDF). And finally, we'll discuss how you can leverage modularization to take your codebase to the next level.",
-      "tags": [
-        "Android",
-        "Architecture",
-        "Modularization"
-      ],
-      "speakers": [
-        "Milosz__Moczkowski"
-      ],
+      "tags": ["Android", "Architecture", "Modularization"],
+      "speakers": ["Milosz__Moczkowski"],
       "presentation": "",
       "title": "Lecture: Modern Android Architecture",
       "complexity": "Advanced",
@@ -596,17 +447,8 @@
     },
     "112": {
       "description": "Hi there! This talk gonna be about How To Bootstrap your Cloud Infrastructure, get away from routine tasks and just... code. I bet we are all familiar with tfw you need setup typical Cloud Architecture for a pet/client project and just notice how much time is wasted on stuff you've already done about  1000 times before?  So am I. I asked myself if it's really necessary Of course not. In this session, we will talk through useful tools, tips&tricks and open-source projects that will simplify your life. Furthermore, I will show you how to set up your own Cloud Accelerator with Terraform and some magic. And as a cherry on top: how to personalize Accelerator for your specific needs! As simple as 1, 2, 3.",
-      "tags": [
-        "Cloud",
-        "Automation",
-        "CI/CD",
-        "Terraform",
-        "GCP",
-        "Azure"
-      ],
-      "speakers": [
-        "Kateryna__Hrytsaienko"
-      ],
+      "tags": ["Cloud", "Automation", "CI/CD", "Terraform", "GCP", "Azure"],
+      "speakers": ["Kateryna__Hrytsaienko"],
       "presentation": "",
       "title": "Lecture: Get Rid Of Routine Tasks in Cloud in 1, 2, 3...",
       "complexity": "Medium",
@@ -614,17 +456,8 @@
     },
     "113": {
       "description": "While building contained apps is relatively predictable in terms of complexity, building apps that interface with peripherals and IoT introduces a number of complexities which are often times overlooked by engineers. I'll walk you through a few of these and tell you how to properly mitigate them.",
-      "tags": [
-        "Mobile",
-        "IoT",
-        "Wearables",
-        "Peripherals",
-        "BLE",
-        "Bluetooth"
-      ],
-      "speakers": [
-        "Peter__Tuszynski"
-      ],
+      "tags": ["Mobile", "IoT", "Wearables", "Peripherals", "BLE", "Bluetooth"],
+      "speakers": ["Peter__Tuszynski"],
       "presentation": "",
       "title": "Lecture: Nonobvious complexities when building technology at the intersection of physical and digital worlds",
       "complexity": "Medium",
@@ -632,12 +465,8 @@
     },
     "114": {
       "description": "You have a vision of a revolutionary feature that will push the business forward, attract more users, and make it the next Unicorn. Once you're ready to act on your ideas, a product manager approaches you with a specification for some other feature - develop it. Sounds familiar? You feel the drive to make an impact. You want to be heard - not just follow the herd. Yonatan will share the lessons on Impact Driven Development that he learned while working with startups and building various teams. How to channel your creativity, passion, and strong will to make a change. How to transform the way you develop and bring your ideas to life.",
-      "tags": [
-        ""
-      ],
-      "speakers": [
-        "Yonatan__Levin"
-      ],
+      "tags": [""],
+      "speakers": ["Yonatan__Levin"],
       "presentation": "",
       "title": "Lecture: How to become a developer that everyone wants in their team?",
       "complexity": "Intro",
@@ -645,18 +474,8 @@
     },
     "115": {
       "description": "I would like to demonstrate wide capabilities of our MongoDB document model database - offered as managed service on all clouds with functionalities to address use-cases for full text search search, data archive, offline scenarios on mobile and end-to-end IoT.",
-      "tags": [
-        "Cloud",
-        "Search",
-        "Mobile",
-        "MongoDB",
-        "MongoDB-Atlas",
-        "DBaaS",
-        "Document Model"
-      ],
-      "speakers": [
-        "Pawel__Manowiecki"
-      ],
+      "tags": ["Cloud", "Search", "Mobile", "MongoDB", "MongoDB-Atlas", "DBaaS", "Document Model"],
+      "speakers": ["Pawel__Manowiecki"],
       "presentation": "",
       "title": "Lecture: How to boost your app with MongoDB Atlas on Google Cloud?",
       "complexity": "Intro",
@@ -664,16 +483,8 @@
     },
     "116": {
       "description": "This talk will go deep on what to take into account when deciding if your current mobile app requires a major rewrite, polish, or starting from scratch. This topic can be an endless discussion so I try to be straight to the point and base suggestions on my own experience. In the end, this should give you a better understanding what are tradeoffs and how you can prepare for them, but still, there is no one perfect answer for all projects out there.   Talk won't go into specific technical details but will touch on them and focus more on business/organization side and what advantages and disadvantages you can expect based on key decisions. Where to spend more time and where to push for `good enough` approach.",
-      "tags": [
-        "Mobile",
-        "Refactor",
-        "New App",
-        "Organization",
-        "Team"
-      ],
-      "speakers": [
-        "Michal__Tajchert"
-      ],
+      "tags": ["Mobile", "Refactor", "New App", "Organization", "Team"],
+      "speakers": ["Michal__Tajchert"],
       "presentation": "",
       "title": "Lecture: To rewrite or refactor the mobile app?",
       "complexity": "Medium",
@@ -681,16 +492,8 @@
     },
     "117": {
       "description": "I will talk about integrating many points of view (Development, Design, Project Management, Cloud, external Marketing Agencies, Client, GDPR and others.) in such way that nothing explodes and the final projects have the highest possible quality.",
-      "tags": [
-        "Cloud",
-        "CI/CD",
-        "Process",
-        "PM",
-        "Fuckup"
-      ],
-      "speakers": [
-        "Jakub__Kolakowski"
-      ],
+      "tags": ["Cloud", "CI/CD", "Process", "PM", "Fuckup"],
+      "speakers": ["Jakub__Kolakowski"],
       "presentation": "",
       "title": "Lecture: The impossible task of combining many external processes",
       "complexity": "Medium",
@@ -698,19 +501,8 @@
     },
     "118": {
       "description": "You have no idea how to start creating your own website or how to code at all? Perfect! Please join me at my workshop to gain some knowledge: - how to write some stuff using HTML and CSS (with a helping hand of Boostrap), - how the components are built (via Material Design) and - where to host it (with free Firebase Hosting).  This is a BYOD workshop, so please Bring Your Own Device - Windows/macOS/Linux - if it's working it will be fine!  There will be also a polish-only workshop, so if you think that you could have any issues understanding english, please register to other workshop.",
-      "tags": [
-        "Web",
-        "Firebase",
-        "HTML",
-        "CSS",
-        "Bootstrap",
-        "Material Design",
-        "UI/UX",
-        "Intro"
-      ],
-      "speakers": [
-        "Jakub__Kolakowski"
-      ],
+      "tags": ["Web", "Firebase", "HTML", "CSS", "Bootstrap", "Material Design", "UI/UX", "Intro"],
+      "speakers": ["Jakub__Kolakowski"],
       "presentation": "",
       "title": "Workshop: Websites creation 101 with Firebase hosting, Material Design and Twitter Bootstrap (BYOD)",
       "complexity": "Intro",
@@ -718,19 +510,8 @@
     },
     "119": {
       "description": "Nie masz pojęcia, jak zacząć tworzyć własną stronę internetową lub jak w ogóle kodować? idealny! Zapraszam na moje warsztaty w celu zdobycia wiedzy: - jak napisać kilka rzeczy w HTML i CSS (z Boostrapem), - jak zbudowane są komponenty (poprzez Material Design) i - gdzie go hostować (z Free Firebase Hosting).  To warsztaty BYOD, więc przynieś własne urządzenie - Windows/macOS/Linux - jeśli działa, wszystko będzie dobrze!  Odbędą się również warsztaty tylko w języku angielskim, więc jeśli uważasz, że możesz mieć problem ze zrozumieniem języka polskiego, zarejestruj się proszę na drugi warsztat.",
-      "tags": [
-        "Web",
-        "Firebase",
-        "HTML",
-        "CSS",
-        "Bootstrap",
-        "Material Design",
-        "UI/UX",
-        "Intro"
-      ],
-      "speakers": [
-        "Jakub__Kolakowski"
-      ],
+      "tags": ["Web", "Firebase", "HTML", "CSS", "Bootstrap", "Material Design", "UI/UX", "Intro"],
+      "speakers": ["Jakub__Kolakowski"],
       "presentation": "",
       "title": "Workshop: Podstawy tworzenia stron internetowych z Firebase Hosting, Material Design i Twitter Bootstrap (BYOD)",
       "complexity": "Intro",
@@ -738,14 +519,8 @@
     },
     "120": {
       "description": "Do you know that Poland is full of different tech-related communities? Let's create a common space to cooperate and organize fantastic events together!",
-      "tags": [
-        "Community",
-        "UI/UX",
-        "Project Management"
-      ],
-      "speakers": [
-        "Jakub__Kolakowski"
-      ],
+      "tags": ["Community", "UI/UX", "Project Management"],
+      "speakers": ["Jakub__Kolakowski"],
       "presentation": "",
       "title": "Workshop: Building the next ecosystem of communities - together",
       "complexity": "Intro",
@@ -753,13 +528,8 @@
     },
     "121": {
       "description": "At some moment in our career, we would might question ourselves “should I become a Lead or Manager?“. Often we don’t have a clear answer to that, and we end up taking the decision based on not clear assumptions. Let’s discuss team leadership and management to understand how this role can directly impact the success of a team, and highlight topics you might pay attention to when transitioning from IC to an effective Engineering Manager",
-      "tags": [
-        "Leadership",
-        "Career path"
-      ],
-      "speakers": [
-        "Rodolfo__Dias"
-      ],
+      "tags": ["Leadership", "Career path"],
+      "speakers": ["Rodolfo__Dias"],
       "presentation": "",
       "title": "Lecture: The software engineer journey: From IC to engineering manager",
       "complexity": "Advanced",
@@ -767,17 +537,8 @@
     },
     "122": {
       "description": "During our speech we will describe how data pipelines are built from various perspectives. We will show the difference between the Data Scientist's tasks and how they differ from Data Engineer's work. Do they exclude each other or rather they are complementary? What is the symbiosis between Cloud Composer and Google Vertex AI?",
-      "tags": [
-        "Cloud",
-        "ML",
-        "Orchestration",
-        "CloudComposer",
-        "VertexAI"
-      ],
-      "speakers": [
-        "Ewa__Gruszka",
-        "Michal__Zylinski"
-      ],
+      "tags": ["Cloud", "ML", "Orchestration", "CloudComposer", "VertexAI"],
+      "speakers": ["Ewa__Gruszka", "Michal__Zylinski"],
       "presentation": "",
       "title": "Lecture: Data Scientist meets Data Engineer",
       "complexity": "Medium",
@@ -785,14 +546,8 @@
     },
     "123": {
       "description": "Evolution Of Cloud / Adaptation of CI-CD",
-      "tags": [
-        "Cloud",
-        "CI/CD",
-        "Agile"
-      ],
-      "speakers": [
-        "Dilraj__Singh"
-      ],
+      "tags": ["Cloud", "CI/CD", "Agile"],
+      "speakers": ["Dilraj__Singh"],
       "presentation": "",
       "title": "Lecture: Evolution Of Cloud in IT Industry and CI-CD",
       "complexity": "Medium",
@@ -817,7 +572,6 @@
     "5": {
       "description": "We invite everyone today to afterparty at  18.30. Password at the entrance DEVFEST. MultiPub Pod Grubą Kaśką, aleja Solidarności 68a, 00-240 Warszawa",
       "title": "After party"
-
     },
     "6": {
       "description": "Coffee and networking",
@@ -833,15 +587,8 @@
     },
     "124": {
       "description": "Angular is a full-fledged framework that provides a complete solution for building web applications, including tools for building the user interface, managing data, and implementing business logic. It uses a language called TypeScript, which is a superset of JavaScript that adds optional static typing and other features. This makes Angular well-suited for large, complex applications that require a lot of code and strong typing. The aim of this presentation is to introduce this unconventional tool and how it can be used intelligently.     ",
-      "tags": [
-        "web",
-        "angular",
-        "java script",
-        "typescript"
-      ],
-      "speakers": [
-        "Dariusz__Kalbarczyk"
-      ],
+      "tags": ["web", "angular", "java script", "typescript"],
+      "speakers": ["Dariusz__Kalbarczyk"],
       "presentation": "",
       "title": "Lecture: ANGULAR 15 - Developing applications with less code and less time",
       "complexity": "Medium",
@@ -849,12 +596,8 @@
     },
     "125": {
       "description": "I've attended many hackathons all over the world and even managed to win a few of them. During my talk, I'll share some practical tips on how to efficiently build a mobile app and pitch it to the judges in less than 24h.",
-      "tags": [
-        "Mobile"
-      ],
-      "speakers": [
-        "Michal__Tuszynski"
-      ],
+      "tags": ["Mobile"],
+      "speakers": ["Michal__Tuszynski"],
       "presentation": "",
       "title": "Lecture: How to build a mobile app in 24?",
       "complexity": "Intro",
@@ -862,13 +605,8 @@
     },
     "126": {
       "description": "A hands-on introduction for complete beginners to Artificial Intelligence GPT-3 offered by OpenAI.\n\nEmphasis will be placed on showing the use cases and available options for the tool. The amount of theory will be minimized. Attendees will be encouraged to try to interact with GPT-3 tools.   David Chalmers, an Australian philosopher, described GPT-3 as ``one of the most interesting and important AI systems ever produced`` An April 2022 review in The New York Times described GPT-3's capabilities as being able to write original prose with fluency equivalent to that of a human.",
-      "tags": [
-        "AI",
-        "GPT-3"
-      ],
-      "speakers": [
-        "Michal__Jablonski"
-      ],
+      "tags": ["AI", "GPT-3"],
+      "speakers": ["Michal__Jablonski"],
       "presentation": "",
       "title": "Workshop: Intro to GPT-3: ``one of the most interesting and important AI systems ever produced`` - end quote",
       "complexity": "Intro",
@@ -876,12 +614,8 @@
     },
     "127": {
       "description": "Let's learn the essential Kotlin Coroutines use cases and best practices: How to transform callbacks or blocking calls into suspend functions, how to create scope and how to work with suspend functions.",
-      "tags": [
-        "Kotlin Coroutines"
-      ],
-      "speakers": [
-        "Marcin__Moskala"
-      ],
+      "tags": ["Kotlin Coroutines"],
+      "speakers": ["Marcin__Moskala"],
       "presentation": "",
       "title": "Workshop: Essentials of Kotlin Coroutines",
       "complexity": "Medium",
@@ -889,12 +623,8 @@
     },
     "9": {
       "description": "",
-      "tags": [
-        "Discussion"
-      ],
-      "speakers": [
-        "Jakub__Kolakowski"
-      ],
+      "tags": ["Discussion"],
+      "speakers": ["Jakub__Kolakowski"],
       "presentation": "",
       "title": "Discussion panel",
       "complexity": "Intro",
@@ -906,12 +636,8 @@
     },
     "129": {
       "description": "A brief introduction about how to start the journey with Angular.",
-      "tags": [
-        "Web"
-      ],
-      "speakers": [
-        "Tomasz__Flis"
-      ],
+      "tags": ["Web"],
+      "speakers": ["Tomasz__Flis"],
       "presentation": "",
       "title": "Workshop: Angular - how to code",
       "complexity": "Intro",
@@ -919,13 +645,8 @@
     },
     "130": {
       "description": "When we set the upper limit of PC-DOS at 640K, we thought nobody would ever need that much memory. — William Gates, chairman of Microsoft.`` In our world, RAM is becoming cheaper and cheaper every day. Having a PC/Mac with 16GB RAM is no longer a big deal. How about the mobile world? We are bombarded every year with devices with amazing specs: a flagship device with 4 GB RAM, an 8 GB device, or even one with 16 GB. On a desktop it really makes a difference. Is it the same on a smartphone? Even with 8GB of RAM, why does my app still crash when it runs out of memory? During this talk, we will learn how Android memory management works, what SWAP, GC, Native Allocations and other technical terms are. Most importantly, you'll learn how to write a junk-free and out-of-memory application. This will not be a lecture on ``don't allocate memory when you don't need it,`` but rather lessons learned when developing monday.com's Android app",
-      "tags": [
-        "Mobile",
-        "Android"
-      ],
-      "speakers": [
-        "Yonatan__Levin"
-      ],
+      "tags": ["Mobile", "Android"],
+      "speakers": ["Yonatan__Levin"],
       "presentation": "",
       "title": "Lecture: 640K ought to be enough for anyone",
       "complexity": "Medium",
@@ -933,14 +654,8 @@
     },
     "131": {
       "description": "The so called ``Modern Data Stack`` is often explained as ever growing number of tools and frameworks that you have to use to build a modern data processing pipelines. While there are various attempts to make data pipelines more homogeneous and build your data needs around some ecosystems, the need to orchestrate your workflows is not going away - if anything, more and more of those pipelines depend on multiple tools in frameworks working together. And like an orchestra consisting of many instruments, they need to have an orchestrator - or a conductor for an orchestra - when playing together.\n \n Apache Airlfow is by far, the most popular workflow orchestrator in the world and its getting more and more relevant, especially that it becomes more than an orchestrator. Airflow 2 turned into modern Orchestration Platform. With Airflow 2.5 released just few days ago, cementing the ``Airflow being a Platform`` approach, you can do much more than **just** orchestration.\n \n This talk focuses on how you can leverage the new features of Airflow in fulfilling your Data Engineering needs.",
-      "tags": [
-        "Cloud",
-        "Orchestration",
-        "Data-Engineering"
-      ],
-      "speakers": [
-        "Jarek__Potiuk"
-      ],
+      "tags": ["Cloud", "Orchestration", "Data-Engineering"],
+      "speakers": ["Jarek__Potiuk"],
       "presentation": "",
       "title": "Lecture: Modern Data Stack Pipelines with Airflow 2.5",
       "complexity": "Medium",
@@ -948,13 +663,8 @@
     },
     "132": {
       "description": "You've already made the decision to become an Engineering Manager, whether it's a new company and a new team or a change of career direction at your current company. During the discussion, Nataliya & Rodolfo will share the learnings from challenges they faced in this transition, practical tips, and what motivated them not to give.",
-      "tags": [
-        "Discussion"
-      ],
-      "speakers": [
-        "Nataliya__Pasichnyk",
-        "Rodolfo__Dias"
-      ],
+      "tags": ["Discussion"],
+      "speakers": ["Nataliya__Pasichnyk", "Rodolfo__Dias"],
       "presentation": "",
       "title": "Discussion: Journey from IC to Engineering Manager",
       "complexity": "Intro",
@@ -962,12 +672,8 @@
     },
     "133": {
       "description": "Jump into MongoDB Atlas yourself and complete a series of exercises led by our team of solution architects, who will be there to support you and answer any questions. Exercises will include basic MQL CRUD operations, indexes and general index building guidelines, creating aggregation pipeline queries, and Search! Things that should be installed by participants: \n\nInstall MongoDB Compass: https://www.mongodb.com/try/download/compass",
-      "tags": [
-        "Cloud"
-      ],
-      "speakers": [
-        "Pawel__Manowiecki"
-      ],
+      "tags": ["Cloud"],
+      "speakers": ["Pawel__Manowiecki"],
       "presentation": "",
       "title": "Workshop: Create your first MongoDB Atlas cluster on Google Cloud [BYOD]",
       "complexity": "Intro",
@@ -986,8 +692,7 @@
       "photo": "/images/people/azimjon_pulatov_400x400.png",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/speakers-people%2Fazimjon_pulatov_400x400.png?alt=media&token=6ae2d146-0c06-48cc-b373-2e197102a0b4",
       "shortBio": "SDE @ Amazon | CS @ PJAIT",
-      "socials": [
-      ],
+      "socials": [],
       "order": 0,
       "title": "Software Development Engineer"
     },
@@ -1023,8 +728,7 @@
       "photo": "/images/people/Diyorbek_Sadullaev.webp",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/speakers-people%2FDiyorbek_Sadullaev.webp?alt=media&token=e8377f30-0f73-48c3-89b5-1b0e9c354515",
       "shortBio": "I am a frontend developer with 4 years of professional experience.",
-      "socials": [
-      ],
+      "socials": [],
       "order": 2,
       "title": "Frontend Developer"
     },
@@ -1451,8 +1155,7 @@
       "photo": "/images/people/Ewa_Gruszka_BIO_400x400.jpg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/speakers-people%2FEwa_Gruszka_BIO_400x400.jpg?alt=media&token=e69a12e0-4e3f-4eb0-b934-734350270277",
       "order": 19,
-      "socials": [
-      ]
+      "socials": []
     },
     "Michal__Zylinski": {
       "name": "Michal Zylinski",
@@ -1467,8 +1170,7 @@
       "photo": "/images/people/",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/speakers-people%2Fconfused_small.webp?alt=media&token=29a8fcb4-31fb-497f-95f4-4b1711d2ad4a",
       "order": 20,
-      "socials": [
-      ]
+      "socials": []
     },
     "Dilraj__Singh": {
       "name": "Dilraj Singh",
@@ -1482,8 +1184,7 @@
       "featured": false,
       "photo": "/images/people/",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/speakers-people%2Fconfused_small.webp?alt=media&token=29a8fcb4-31fb-497f-95f4-4b1711d2ad4a",
-      "socials": [
-      ],
+      "socials": [],
       "order": 21
     },
     "Dariusz__Kalbarczyk": {
@@ -1498,8 +1199,7 @@
       "featured": false,
       "photo": "/images/people/Dariusz__Kalbarczyk.jfif",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-warsaw-devfest22-website.appspot.com/o/speakers-people%2FDariusz__Kalbarczyk.jfif?alt=media&token=31b339b2-7cb8-4a96-9992-a155a2226692",
-      "socials": [
-      ],
+      "socials": [],
       "order": 22
     },
     "Michal__Tuszynski": {
@@ -1896,9 +1596,6 @@
   "triggers": {
     "images": false
   },
-  "videos": [
-    {}
-  ],
-  "previousSpeakers": {
-  }
+  "videos": [{}],
+  "previousSpeakers": {}
 }

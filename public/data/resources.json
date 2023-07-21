@@ -117,9 +117,7 @@
   "codeOfConductBlock": {
     "organization": "DevFest",
     "form": "https://forms.gle/PumADy1bgpPDocrs5",
-    "contacts": [
-      "Organizers , coc@gdgwarsaw.pl"
-    ]
+    "contacts": ["Organizers , coc@gdgwarsaw.pl"]
   },
   "aboutBlock": {
     "title": "What you need to know, before you ask",
@@ -138,7 +136,7 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "250+"
+        "number": "100+"
       },
       "days": {
         "label": "Days",

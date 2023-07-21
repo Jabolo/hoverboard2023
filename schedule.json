@@ -6,9 +6,7 @@
         "endTime": "10:00",
         "sessions": [
           {
-            "items": [
-              "1"
-            ]
+            "items": ["1"]
           }
         ]
       },
@@ -17,9 +15,7 @@
         "endTime": "10:30",
         "sessions": [
           {
-            "items": [
-              "2"
-            ]
+            "items": ["2"]
           }
         ]
       },
@@ -28,24 +24,16 @@
         "endTime": "11:00",
         "sessions": [
           {
-            "items": [
-              "122"
-            ]
+            "items": ["122"]
           },
           {
-            "items": [
-              "125"
-            ]
+            "items": ["125"]
           },
           {
-            "items": [
-              "3"
-            ]
+            "items": ["3"]
           },
           {
-            "items": [
-              "120"
-            ],
+            "items": ["120"],
             "extends": 1
           }
         ]
@@ -55,19 +43,13 @@
         "endTime": "11:30",
         "sessions": [
           {
-            "items": [
-              "102"
-            ]
+            "items": ["102"]
           },
           {
-            "items": [
-              "108"
-            ]
+            "items": ["108"]
           },
           {
-            "items": [
-              "103"
-            ]
+            "items": ["103"]
           }
         ]
       }

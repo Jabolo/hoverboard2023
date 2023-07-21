@@ -118,8 +118,8 @@
     "short": "Warsaw, Poland",
     "address": "Koszykowa 86, 02-008 Warszawa",
     "pointer": {
-      "latitude": 52.22380,
-      "longitude": 20.99410,
+      "latitude": 52.2238,
+      "longitude": 20.9941,
       "zoom": 6
     },
     "mapCenter": {
@@ -196,8 +196,5 @@
       "itemsCount": 4
     }
   },
-  "showForkMeBlockForProjectIds": [
-    "hoverboard-master",
-    "hoverboard-dev"
-  ]
+  "showForkMeBlockForProjectIds": ["hoverboard-master", "hoverboard-dev"]
 }

@@ -19,10 +19,10 @@ export class AboutBlock extends ThemedElement {
         }
 
         .content {
-            display: grid;
-            grid-gap: 32px;
-            grid-template-columns: 1fr;
-          }
+          display: grid;
+          grid-gap: 32px;
+          grid-template-columns: 1fr;
+        }
 
         .statistics-block {
           width: 100%;
@@ -48,7 +48,6 @@ export class AboutBlock extends ThemedElement {
         }
 
         @media (min-width: 640px) {
-
           .content {
             grid-gap: 64px;
             grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));

@@ -30,8 +30,8 @@ export const theme = css`
     --border-radius: 4px;
     --box-shadow: 0 2px 1px -1px rgb(0 0 0 / 20%), 0 1px 1px 0 rgb(0 0 0 / 14%),
       0 1px 3px 0 rgb(0 0 0 / 12%);
-    --box-shadow-primary-color: 0 3px 3px -2px rgb(0 58 137 / 30%),
-      0 3px 4px 0 rgb(0 58 137 / 30%), 0 1px 8px 0 rgb(0 58 137 / 30%);
+    --box-shadow-primary-color: 0 3px 3px -2px rgb(0 58 137 / 30%), 0 3px 4px 0 rgb(0 58 137 / 30%),
+      0 1px 8px 0 rgb(0 58 137 / 30%);
     --box-shadow-primary-color-hover: 0 1px 3px -2px rgb(0 58 137 / 40%),
       0 4px 5px 0 rgb(0 58 137 / 40%), 0 2px 9px 0 rgb(0 58 137 / 40%);
     --font-family: -apple-system, blinkmacsystemfont, 'Segoe UI', roboto, helvetica, arial,
