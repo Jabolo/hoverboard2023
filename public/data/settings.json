@@ -113,20 +113,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Polsko-Japońska Akademia Technik Komputerowych",
+    "name": "Google for Startups Campus Warsaw",
     "city": "Warsaw",
     "short": "Warsaw, Poland",
-    "address": "Koszykowa 86, 02-008 Warszawa",
+    "address": "Plac Konesera 10, 03-736 Warszawa",
     "pointer": {
-      "latitude": 52.2238,
-      "longitude": 20.9941,
+      "latitude": 52.2561,
+      "longitude": 21.0453,
       "zoom": 6
     },
     "mapCenter": {
       "latitude": 52,
       "longitude": 21
     },
-    "description": "Polsko-Japońska Akademia Technik Komputerowych"
+    "description": "Google for Startups Campus Warsaw"
   },
   "socialNetwork": {
     "follow": [
