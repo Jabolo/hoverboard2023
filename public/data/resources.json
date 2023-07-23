@@ -1,10 +1,10 @@
 {
-  "title": "GDG DevFest Season 2022",
+  "title": "GDG DevFest Season 2023",
   "description": "Join the community, learn new things!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, chrome, polymer, developers, web, cloud, mobile",
-  "dates": "December 10-11, 2022",
-  "partnershipProposition": "https://docs.google.com/presentation/d/e/2PACX-1vTTrjNNjJNe5OHkY00R6peWPKp8qzFLFOV8BrnxsfJlrLTN1Zucmn7z-RYSn40wjV27i6O7mKaXS_-s/pub?start=true&loop=false&delayms=5000&slide=id.g16dc087ff94_0_1171",
+  "dates": "November 25, 2023",
+  "partnershipProposition": "",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -68,17 +68,17 @@
           "name": "WTM",
           "url": "https://developers.google.com/womentechmakers",
           "newTab": true
-        },
-        {
-          "name": "PJATK GDSC",
-          "url": "https://gdsc.community.dev/polish-japanese-academy-of-information-technology/",
-          "newTab": true
         }
       ]
     },
     {
       "title": "Explore Past DevFests",
       "links": [
+        {
+          "name": "TODO: DevFestWarsaw 2022",
+          "url": "",
+          "newTab": true
+        },
         {
           "name": "DevFestPoland 2019",
           "url": "https://warrad-devfest-pl.web.app/",
@@ -101,12 +101,12 @@
       "links": [
         {
           "name": "Partnership Proposition",
-          "url": "https://docs.google.com/presentation/d/e/2PACX-1vTTrjNNjJNe5OHkY00R6peWPKp8qzFLFOV8BrnxsfJlrLTN1Zucmn7z-RYSn40wjV27i6O7mKaXS_-s/pub?start=true&loop=false&delayms=5000&slide=id.g16dc087ff94_0_1171",
+          "url": "",
           "newTab": true
         },
         {
           "name": "Call for Papers",
-          "url": "https://forms.gle/jmEC6CQJXtpNx75N6",
+          "url": "",
           "newTab": true
         }
       ]
@@ -116,14 +116,14 @@
   "codeOfConduct": "Code of Conduct",
   "codeOfConductBlock": {
     "organization": "DevFest",
-    "form": "https://forms.gle/PumADy1bgpPDocrs5",
+    "form": "",
     "contacts": ["Organizers , coc@gdgwarsaw.pl"]
   },
   "aboutBlock": {
     "title": "What you need to know, before you ask",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Warsaw brings together the world class experts in Android, Web and Cloud technologies to Warsaw for 2 days of sessions, workshops and showcases.",
+        "description": "GDG DevFest Warsaw brings together the world class experts in Android, Web and Cloud technologies to Warsaw for whole day of sessions, workshops and showcases.",
         "label": "",
         "link": ""
       },
@@ -136,19 +136,19 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "100+"
+        "number": "200+"
       },
       "days": {
-        "label": "Days",
-        "number": "2"
+        "label": "Day",
+        "number": "1"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "30+"
+        "number": "X"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "X"
       }
     }
   },

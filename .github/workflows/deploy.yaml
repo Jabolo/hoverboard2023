@@ -20,5 +20,5 @@ jobs:
           args: deploy
         env:
           # See docs/tutorials/04-deploy.md for configuring these
-          PROJECT_ID: gdg-warsaw-devfest22-website
-          GCP_SA_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_GDG_WARSAW_DEVFEST22_WEBSITE }}
+          PROJECT_ID: gdg-warsaw-devfest23-web-11997
+          GCP_SA_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_GDG_WARSAW_DEVFEST23_WEB_11997 }}
