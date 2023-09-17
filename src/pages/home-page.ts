@@ -53,11 +53,11 @@ export class HomePage extends ReduxMixin(PolymerElement) {
 
         .hero-logo {
           --lazy-image-width: 100%;
-          --lazy-image-height: 100px;
+          --lazy-image-height: 200px;
           width: var(--lazy-image-width);
           height: var(--lazy-image-height);
-          max-width: 240px;
-          max-height: 100px;
+          max-width: 600px;
+          max-height: 200px;
         }
 
         .info-items {
@@ -122,8 +122,8 @@ export class HomePage extends ReduxMixin(PolymerElement) {
 
         @media (min-height: 500px) {
           hero-block {
-            height: calc(100vh + 57px);
-            max-height: calc(100vh + 1px);
+            height: calc(120vh + 57px);
+            max-height: calc(130vh + 1px);
           }
 
           .home-content {
@@ -145,7 +145,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
           }
 
           .hero-logo {
-            max-width: 320px;
+            max-width: 600px;
           }
 
           .info-items {
