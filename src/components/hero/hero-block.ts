@@ -31,7 +31,7 @@ export class HeroBlock extends ThemedElement {
           height: 100%;
           position: relative;
           color: inherit;
-          color: redddd:
+          color: red:
         }
 
         .hero-overlay {
