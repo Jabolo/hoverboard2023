@@ -140,15 +140,15 @@
       },
       "days": {
         "label": "Day",
-        "number": "1"
+        "number": "Saturday"
       },
       "sessions": {
-        "label": "Sessions",
-        "number": "X"
+        "label": "Networking",
+        "number": "100%"
       },
       "tracks": {
-        "label": "Tracks",
-        "number": "X"
+        "label": "Diversity & Inclusion",
+        "number": "Sure thing!"
       }
     }
   },

@@ -2,44 +2,51 @@ import { css } from 'lit';
 
 export const theme = css`
   :host {
-    --dark-primary-color: #0059c1;
-    --default-primary-color: #4285f4;
-    --focused-color: #003a89;
-    --light-primary-color: #80b4ff;
-    --text-primary-color: #fff;
-    --accent-color: #4285f4;
-    --primary-background-color: #fff;
-    --primary-text-color: #424242;
-    --secondary-text-color: #757575;
-    --disabled-text-color: #bdbdbd;
-    --divider-color: #ededed;
-    --footer-background-color: #f5f5f5;
-    --footer-text-color: #616161;
-    --twitter-color: #4099ff;
-    --facebook-color: #3b5998;
-    --border-light-color: #e2e2e2;
-    --error-color: #e64a19;
+/* Primary colors */
+--dark-primary-color: #ff9800;
+--default-primary-color: #f9ab00;
+--focused-color: #ff9800; /* Adjusted to be closer to the dark primary color */
+--light-primary-color: #ffe0b2;
+--text-primary-color: #212121;
+--accent-color: #f9ab00;
 
-    /* Custom */
-    --default-background-color: #fff;
-    --secondary-background-color: #f5f5f5;
-    --additional-background-color: #f7f7f7;
-    --contrast-additional-background-color: #e8e8e8;
-    --animation: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    --slide-animation: 0.4s cubic-bezier(0, 0, 0.2, 1);
-    --border-radius: 4px;
-    --box-shadow: 0 2px 1px -1px rgb(0 0 0 / 20%), 0 1px 1px 0 rgb(0 0 0 / 14%),
-      0 1px 3px 0 rgb(0 0 0 / 12%);
-    --box-shadow-primary-color: 0 3px 3px -2px rgb(0 58 137 / 30%), 0 3px 4px 0 rgb(0 58 137 / 30%),
-      0 1px 8px 0 rgb(0 58 137 / 30%);
-    --box-shadow-primary-color-hover: 0 1px 3px -2px rgb(0 58 137 / 40%),
-      0 4px 5px 0 rgb(0 58 137 / 40%), 0 2px 9px 0 rgb(0 58 137 / 40%);
-    --font-family: -apple-system, blinkmacsystemfont, 'Segoe UI', roboto, helvetica, arial,
-      sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-    --max-container-width: 1280px;
-    --primary-color-transparent: rgb(0 58 137 / 10%);
-    --primary-color-light: rgb(0 58 137 / 100%);
-    --primary-color-white: #ede7f6;
+/* Background colors */
+--primary-background-color: #fff;
+--primary-text-color: #212121; /* Adjusted to match the text primary color */
+--secondary-text-color: #757575; /* Kept the same as it's a neutral shade */
+--disabled-text-color: #bdbdbd; /* Kept the same as it's a neutral shade */
+--divider-color: #ededed; /* Kept the same as it's a neutral shade */
+--footer-background-color: #f5f5f5; /* Kept the same as it's a neutral shade */
+--footer-text-color: #616161; /* Kept the same as it's a neutral shade */
+
+/* Social media colors */
+--twitter-color: #4099ff; /* Kept the same as it's specific to Twitter */
+--facebook-color: #3b5998; /* Kept the same as it's specific to Facebook */
+--border-light-color: #e2e2e2; /* Kept the same as it's a neutral shade */
+--error-color: #e64a19; /* Kept the same as it's a red shade for errors */
+
+
+/* Custom */
+--default-background-color: #fff; /* Adjusted to match light primary color */
+--secondary-background-color: #ffd9a1; /* Slightly darker than default background */
+--additional-background-color: #ffcc8d; /* Even slightly darker for variation */
+--contrast-additional-background-color: #ffb366; /* A contrasting shade */
+--animation: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+--slide-animation: 0.4s cubic-bezier(0, 0, 0.2, 1);
+--border-radius: 4px;
+--box-shadow: 0 2px 1px -1px rgb(0 0 0 / 20%), 0 1px 1px 0 rgb(0 0 0 / 14%),
+  0 1px 3px 0 rgb(0 0 0 / 12%);
+--box-shadow-primary-color: 0 3px 3px -2px rgb(249 171 0 / 30%), 0 3px 4px 0 rgb(249 171 0 / 30%),
+  0 1px 8px 0 rgb(249 171 0 / 30%); /* Adjusted to match default primary color */
+--box-shadow-primary-color-hover: 0 1px 3px -2px rgb(249 171 0 / 40%),
+  0 4px 5px 0 rgb(249 171 0 / 40%), 0 2px 9px 0 rgb(249 171 0 / 40%); /* Adjusted to match default primary color */
+--font-family: -apple-system, blinkmacsystemfont, 'Segoe UI', roboto, helvetica, arial,
+  sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+--max-container-width: 1280px;
+--primary-color-transparent: rgb(249 171 0 / 10%); /* Adjusted to match default primary color */
+--primary-color-light: rgb(249 171 0 / 100%); /* Adjusted to match default primary color */
+--primary-color-white: #ffe0b2; /* Adjusted to match light primary color */
+
 
     /* Labels */
     --gde: #3d5afe;
