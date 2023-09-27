@@ -22,7 +22,7 @@
       "server": ""
     },
     "site": {
-      "domain": "https://warsaw.devfest.pl/"
+      "domain": "warsaw.devfest.pl"
     },
     "schedule": {
       "enabled": true
